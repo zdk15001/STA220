@@ -1,0 +1,322 @@
+CountyCode,CountyName,DistrictCode,DistrictName,SchoolYear,StudentGroup,ELAValidScores_District,ELAGraduationReadyPct_District,MathValidScores_District,MathGraduationReadyPct_District,ELAValidScores_State,ELAGraduationReadyPct_State,MathValidScores_State,MathGraduationReadyPct_State
+01,Atlantic,0110,Atlantic City School District,2024-25,All Students,389,54.0%,391,25.1%,"101,309",81.3%,"101,605",58.5%
+01,Atlantic,0120,Atlantic County Vocational School District,2024-25,All Students,415,86.3%,416,60.3%,"101,309",81.3%,"101,605",58.5%
+01,Atlantic,0590,Buena Regional School District,2024-25,All Students,121,66.1%,122,34.4%,"101,309",81.3%,"101,605",58.5%
+01,Atlantic,1310,Egg Harbor Township School District,2024-25,All Students,534,75.5%,532,51.5%,"101,309",81.3%,"101,605",58.5%
+01,Atlantic,1790,Greater Egg Harbor Regional High School District,2024-25,All Students,694,77.8%,693,48.2%,"101,309",81.3%,"101,605",58.5%
+01,Atlantic,1960,Hammonton School District,2024-25,All Students,293,92.2%,294,57.5%,"101,309",81.3%,"101,605",58.5%
+01,Atlantic,2910,Mainland Regional High School,2024-25,All Students,270,93.3%,270,75.2%,"101,309",81.3%,"101,605",58.5%
+01,Atlantic,4180,Pleasantville Public School District,2024-25,All Students,259,54.8%,257,21.8%,"101,309",81.3%,"101,605",58.5%
+03,Bergen,0290,Bergen County Vocational Technical School District,2024-25,All Students,584,99.8%,582,98.8%,"101,309",81.3%,"101,605",58.5%
+03,Bergen,0300,Bergenfield Borough School District,2024-25,All Students,284,88.4%,283,74.6%,"101,309",81.3%,"101,605",58.5%
+03,Bergen,0440,Bogota Public School District,2024-25,All Students,99,87.9%,99,52.5%,"101,309",81.3%,"101,605",58.5%
+03,Bergen,0745,Carlstadt-East Rutherford Regional High School District,2024-25,All Students,230,89.6%,230,57.0%,"101,309",81.3%,"101,605",58.5%
+03,Bergen,0890,Cliffside Park School District,2024-25,All Students,304,70.1%,303,53.1%,"101,309",81.3%,"101,605",58.5%
+03,Bergen,0990,Cresskill Public School District,2024-25,All Students,137,94.9%,137,80.3%,"101,309",81.3%,"101,605",58.5%
+03,Bergen,1130,Dumont Public School District,2024-25,All Students,185,93.5%,185,71.9%,"101,309",81.3%,"101,605",58.5%
+03,Bergen,1345,Elmwood Park School District,2024-25,All Students,199,84.4%,199,44.7%,"101,309",81.3%,"101,605",58.5%
+03,Bergen,1360,Emerson Public School District,2024-25,All Students,69,91.3%,71,63.4%,"101,309",81.3%,"101,605",58.5%
+03,Bergen,1370,Englewood Public School District,2024-25,All Students,257,80.2%,258,57.0%,"101,309",81.3%,"101,605",58.5%
+03,Bergen,1450,Fair Lawn Public School District,2024-25,All Students,419,94.7%,418,79.9%,"101,309",81.3%,"101,605",58.5%
+03,Bergen,1550,Fort Lee School District,2024-25,All Students,315,89.8%,317,70.3%,"101,309",81.3%,"101,605",58.5%
+03,Bergen,1700,Garfield Public School District,2024-25,All Students,326,71.5%,325,37.2%,"101,309",81.3%,"101,605",58.5%
+03,Bergen,1760,Glen Rock Public School District,2024-25,All Students,207,94.2%,208,87.5%,"101,309",81.3%,"101,605",58.5%
+03,Bergen,1860,Hackensack School District,2024-25,All Students,444,82.2%,457,33.9%,"101,309",81.3%,"101,605",58.5%
+03,Bergen,2080,Hasbrouck Heights School District,2024-25,All Students,139,93.5%,139,69.1%,"101,309",81.3%,"101,605",58.5%
+03,Bergen,2620,Leonia Public School District,2024-25,All Students,201,89.1%,203,70.9%,"101,309",81.3%,"101,605",58.5%
+03,Bergen,2740,Lodi School District,2024-25,All Students,226,77.9%,225,44.9%,"101,309",81.3%,"101,605",58.5%
+03,Bergen,2860,Lyndhurst Public School District,2024-25,All Students,224,91.1%,224,54.0%,"101,309",81.3%,"101,605",58.5%
+03,Bergen,2900,Mahwah Township Public School District,2024-25,All Students,222,94.1%,222,79.7%,"101,309",81.3%,"101,605",58.5%
+03,Bergen,3170,Midland Park School District,2024-25,All Students,64,96.9%,64,76.6%,"101,309",81.3%,"101,605",58.5%
+03,Bergen,3550,New Milford Public School District,2024-25,All Students,137,86.9%,137,73.0%,"101,309",81.3%,"101,605",58.5%
+03,Bergen,3600,North Arlington School District,2024-25,All Students,142,88.7%,142,56.3%,"101,309",81.3%,"101,605",58.5%
+03,Bergen,3700,Northern Highlands Regional High School District,2024-25,All Students,326,97.9%,326,92.3%,"101,309",81.3%,"101,605",58.5%
+03,Bergen,3710,Northern Valley Regional High School District,2024-25,All Students,504,91.9%,506,85.0%,"101,309",81.3%,"101,605",58.5%
+03,Bergen,3910,Palisades Park School District,2024-25,All Students,136,60.3%,139,38.1%,"101,309",81.3%,"101,605",58.5%
+03,Bergen,3930,Paramus Public School District,2024-25,All Students,255,91.8%,254,75.6%,"101,309",81.3%,"101,605",58.5%
+03,Bergen,3940,Park Ridge School District,2024-25,All Students,88,95.5%,88,76.1%,"101,309",81.3%,"101,605",58.5%
+03,Bergen,3960,Pascack Valley Regional High School District,2024-25,All Students,422,91.0%,421,85.5%,"101,309",81.3%,"101,605",58.5%
+03,Bergen,4300,Ramapo Indian Hills Regional High School District,2024-25,All Students,469,94.9%,467,81.4%,"101,309",81.3%,"101,605",58.5%
+03,Bergen,4310,Ramsey School District,2024-25,All Students,181,96.7%,180,80.6%,"101,309",81.3%,"101,605",58.5%
+03,Bergen,4370,Ridgefield School District,2024-25,All Students,129,84.5%,129,51.9%,"101,309",81.3%,"101,605",58.5%
+03,Bergen,4380,Ridgefield Park Public School District,2024-25,All Students,219,82.6%,223,52.5%,"101,309",81.3%,"101,605",58.5%
+03,Bergen,4390,Ridgewood Public School District,2024-25,All Students,429,93.9%,428,87.1%,"101,309",81.3%,"101,605",58.5%
+03,Bergen,4405,River Dell Regional School District,2024-25,All Students,261,95.8%,261,87.0%,"101,309",81.3%,"101,605",58.5%
+03,Bergen,4600,Rutherford School District,2024-25,All Students,188,91.5%,190,74.7%,"101,309",81.3%,"101,605",58.5%
+03,Bergen,4610,Saddle Brook School District,2024-25,All Students,143,86.0%,145,66.9%,"101,309",81.3%,"101,605",58.5%
+03,Bergen,5150,Teaneck School District,2024-25,All Students,315,83.5%,321,51.4%,"101,309",81.3%,"101,605",58.5%
+03,Bergen,5160,Tenafly Public School District,2024-25,All Students,292,95.9%,292,91.4%,"101,309",81.3%,"101,605",58.5%
+03,Bergen,5410,Waldwick School District,2024-25,All Students,100,90.0%,101,74.3%,"101,309",81.3%,"101,605",58.5%
+03,Bergen,5430,Wallington Boro School District,2024-25,All Students,89,87.6%,89,62.9%,"101,309",81.3%,"101,605",58.5%
+03,Bergen,5755,Westwood Regional School District,2024-25,All Students,201,88.6%,201,72.1%,"101,309",81.3%,"101,605",58.5%
+03,Bergen,5830,Wood-Ridge School District,2024-25,All Students,84,85.7%,84,67.9%,"101,309",81.3%,"101,605",58.5%
+05,Burlington,0475,Bordentown Regional School District,2024-25,All Students,201,81.6%,201,66.2%,"101,309",81.3%,"101,605",58.5%
+05,Burlington,0600,Burlington City Public School District,2024-25,All Students,129,72.1%,129,34.9%,"101,309",81.3%,"101,605",58.5%
+05,Burlington,0610,Burlington County Institute of Technology School District,2024-25,All Students,501,91.8%,501,65.5%,"101,309",81.3%,"101,605",58.5%
+05,Burlington,0620,Burlington Township School District,2024-25,All Students,294,84.0%,293,63.8%,"101,309",81.3%,"101,605",58.5%
+05,Burlington,0840,Cinnaminson Township School District,2024-25,All Students,242,89.3%,242,67.8%,"101,309",81.3%,"101,605",58.5%
+05,Burlington,1060,Delran Township School District,2024-25,All Students,243,77.8%,243,59.3%,"101,309",81.3%,"101,605",58.5%
+05,Burlington,1520,Florence Township School District,2024-25,All Students,100,80.0%,100,59.0%,"101,309",81.3%,"101,605",58.5%
+05,Burlington,2610,Lenape Regional High School District,2024-25,All Students,"1,620",86.3%,"1,625",69.5%,"101,309",81.3%,"101,605",58.5%
+05,Burlington,3010,Maple Shade School District,2024-25,All Students,160,84.4%,159,50.3%,"101,309",81.3%,"101,605",58.5%
+05,Burlington,3360,Moorestown Township Public School District,2024-25,All Students,293,95.2%,292,88.4%,"101,309",81.3%,"101,605",58.5%
+05,Burlington,3690,Northern Burlington County Regional School District,2024-25,All Students,317,88.0%,318,73.9%,"101,309",81.3%,"101,605",58.5%
+05,Burlington,3920,Palmyra Public School District,2024-25,All Students,95,86.3%,96,44.8%,"101,309",81.3%,"101,605",58.5%
+05,Burlington,4050,Pemberton Township School District,2024-25,All Students,246,70.7%,245,42.4%,"101,309",81.3%,"101,605",58.5%
+05,Burlington,4320,Rancocas Valley Regional High School District,2024-25,All Students,454,78.4%,454,48.5%,"101,309",81.3%,"101,605",58.5%
+05,Burlington,4450,Riverside Township School District,2024-25,All Students,107,54.2%,107,30.8%,"101,309",81.3%,"101,605",58.5%
+05,Burlington,5805,Willingboro Public School District,2024-25,All Students,222,58.1%,222,14.9%,"101,309",81.3%,"101,605",58.5%
+07,Camden,0150,Audubon Public School District,2024-25,All Students,149,87.2%,148,66.2%,"101,309",81.3%,"101,605",58.5%
+07,Camden,0390,Black Horse Pike Regional School District,2024-25,All Students,817,81.4%,820,54.9%,"101,309",81.3%,"101,605",58.5%
+07,Camden,0680,Camden City School District,2024-25,All Students,380,46.3%,382,11.0%,"101,309",81.3%,"101,605",58.5%
+07,Camden,0700,Camden County Technical School District,2024-25,All Students,479,92.7%,479,66.8%,"101,309",81.3%,"101,605",58.5%
+07,Camden,0800,Cherry Hill School District,2024-25,All Students,868,90.3%,869,69.4%,"101,309",81.3%,"101,605",58.5%
+07,Camden,0940,Collingswood Public School District,2024-25,All Students,185,78.9%,185,56.8%,"101,309",81.3%,"101,605",58.5%
+07,Camden,1255,Eastern Camden County Regional School District,2024-25,All Students,430,87.0%,430,71.9%,"101,309",81.3%,"101,605",58.5%
+07,Camden,1770,Gloucester City Public School District,2024-25,All Students,216,80.1%,216,45.8%,"101,309",81.3%,"101,605",58.5%
+07,Camden,1799,"KIPP: Cooper Norcross, A New Jersey Nonprofit Corporation",2024-25,All Students,96,52.1%,96,19.8%,"101,309",81.3%,"101,605",58.5%
+07,Camden,1801,"Camden Prep, Inc.",2024-25,All Students,43,53.5%,44,13.6%,"101,309",81.3%,"101,605",58.5%
+07,Camden,1802,"Mastery Schools of Camden, Inc.",2024-25,All Students,175,53.1%,174,29.9%,"101,309",81.3%,"101,605",58.5%
+07,Camden,1880,Haddon Heights School District,2024-25,All Students,186,87.1%,188,54.8%,"101,309",81.3%,"101,605",58.5%
+07,Camden,1890,Haddon Township School District,2024-25,All Students,159,86.8%,159,64.8%,"101,309",81.3%,"101,605",58.5%
+07,Camden,1900,Haddonfield School District,2024-25,All Students,184,97.8%,184,89.1%,"101,309",81.3%,"101,605",58.5%
+07,Camden,2670,Lindenwold Public School District,2024-25,All Students,172,64.0%,171,34.5%,"101,309",81.3%,"101,605",58.5%
+07,Camden,4060,Pennsauken Township Board of Education School District,2024-25,All Students,390,58.2%,390,32.6%,"101,309",81.3%,"101,605",58.5%
+07,Camden,4110,Pine Hill School District,2024-25,All Students,194,68.6%,194,39.2%,"101,309",81.3%,"101,605",58.5%
+07,Camden,5035,Sterling Regional School District,2024-25,All Students,194,84.0%,197,43.7%,"101,309",81.3%,"101,605",58.5%
+07,Camden,5820,Winslow Township School District,2024-25,All Students,298,69.8%,298,37.9%,"101,309",81.3%,"101,605",58.5%
+09,Cape May,0720,Cape May County Technical High School District,2024-25,All Students,160,63.7%,159,39.6%,"101,309",81.3%,"101,605",58.5%
+09,Cape May,2820,Lower Cape May Regional School District,2024-25,All Students,165,78.8%,166,48.8%,"101,309",81.3%,"101,605",58.5%
+09,Cape May,3130,Middle Township Public School District,2024-25,All Students,163,81.6%,163,57.1%,"101,309",81.3%,"101,605",58.5%
+09,Cape May,3780,Ocean City School District,2024-25,All Students,277,90.6%,276,76.4%,"101,309",81.3%,"101,605",58.5%
+09,Cape May,5790,Wildwood City School District,2024-25,All Students,50,56.0%,50,36.0%,"101,309",81.3%,"101,605",58.5%
+11,Cumberland,0540,Bridgeton City School District,2024-25,All Students,347,48.7%,353,22.4%,"101,309",81.3%,"101,605",58.5%
+11,Cumberland,0995,Cumberland County Board of Vocational Education,2024-25,All Students,285,98.6%,285,84.9%,"101,309",81.3%,"101,605",58.5%
+11,Cumberland,0997,Cumberland Regional School District,2024-25,All Students,289,65.1%,288,30.2%,"101,309",81.3%,"101,605",58.5%
+11,Cumberland,3230,Millville School District,2024-25,All Students,380,52.1%,378,20.6%,"101,309",81.3%,"101,605",58.5%
+11,Cumberland,5390,Vineland Public School District,2024-25,All Students,646,65.0%,639,35.2%,"101,309",81.3%,"101,605",58.5%
+13,Essex,0250,Belleville Public School District,2024-25,All Students,394,68.5%,390,41.3%,"101,309",81.3%,"101,605",58.5%
+13,Essex,0410,Bloomfield Township School District,2024-25,All Students,521,80.4%,521,50.1%,"101,309",81.3%,"101,605",58.5%
+13,Essex,0660,Caldwell-West School District,2024-25,All Students,173,94.2%,173,82.7%,"101,309",81.3%,"101,605",58.5%
+13,Essex,0760,Cedar Grove Township School District,2024-25,All Students,115,95.7%,115,87.0%,"101,309",81.3%,"101,605",58.5%
+13,Essex,1210,East Orange School District,2024-25,All Students,666,69.5%,663,31.2%,"101,309",81.3%,"101,605",58.5%
+13,Essex,1390,Essex County Schools of Technology,2024-25,All Students,475,98.3%,474,75.3%,"101,309",81.3%,"101,605",58.5%
+13,Essex,1750,Glen Ridge Public School District,2024-25,All Students,139,97.1%,139,88.5%,"101,309",81.3%,"101,605",58.5%
+13,Essex,2330,Irvington Public School District,2024-25,All Students,462,60.8%,460,27.2%,"101,309",81.3%,"101,605",58.5%
+13,Essex,2730,Livingston Board of Education School District,2024-25,All Students,520,96.5%,520,87.5%,"101,309",81.3%,"101,605",58.5%
+13,Essex,3190,Millburn Township School District,2024-25,All Students,352,99.1%,355,94.1%,"101,309",81.3%,"101,605",58.5%
+13,Essex,3310,Montclair Public School District,2024-25,All Students,461,88.1%,461,69.2%,"101,309",81.3%,"101,605",58.5%
+13,Essex,3570,Newark Public School District,2024-25,All Students,"2,677",67.0%,"2,755",37.9%,"101,309",81.3%,"101,605",58.5%
+13,Essex,3750,Nutley Public School District,2024-25,All Students,291,89.7%,291,66.0%,"101,309",81.3%,"101,605",58.5%
+13,Essex,3880,Orange Board Of Education School District,2024-25,All Students,351,66.4%,356,39.3%,"101,309",81.3%,"101,605",58.5%
+13,Essex,4900,South Orange-Maplewood School District,2024-25,All Students,458,90.4%,456,78.1%,"101,309",81.3%,"101,605",58.5%
+13,Essex,5370,Verona Public School District,2024-25,All Students,157,93.0%,157,82.2%,"101,309",81.3%,"101,605",58.5%
+13,Essex,5630,West Essex Regional School District,2024-25,All Students,256,91.0%,255,83.5%,"101,309",81.3%,"101,605",58.5%
+13,Essex,5680,West Orange Public Schools,2024-25,All Students,518,84.0%,521,56.6%,"101,309",81.3%,"101,605",58.5%
+15,Gloucester,0860,Clayton Public School District,2024-25,All Students,113,63.7%,113,32.7%,"101,309",81.3%,"101,605",58.5%
+15,Gloucester,0870,Clearview Regional High School District,2024-25,All Students,341,95.3%,341,74.8%,"101,309",81.3%,"101,605",58.5%
+15,Gloucester,1100,Deptford Township Public School District,2024-25,All Students,274,75.9%,274,43.1%,"101,309",81.3%,"101,605",58.5%
+15,Gloucester,1715,Gateway Regional High School District,2024-25,All Students,130,77.7%,130,47.7%,"101,309",81.3%,"101,605",58.5%
+15,Gloucester,1730,Glassboro School District,2024-25,All Students,124,69.4%,124,33.9%,"101,309",81.3%,"101,605",58.5%
+15,Gloucester,1775,Gloucester County Vocational-Technical School District,2024-25,All Students,382,93.5%,381,84.5%,"101,309",81.3%,"101,605",58.5%
+15,Gloucester,2440,Kingsway Regional School District,2024-25,All Students,509,84.9%,509,68.6%,"101,309",81.3%,"101,605",58.5%
+15,Gloucester,3280,Monroe Township Public School District,2024-25,All Students,409,80.2%,411,49.4%,"101,309",81.3%,"101,605",58.5%
+15,Gloucester,4020,Paulsboro School District,2024-25,All Students,76,39.5%,76,14.5%,"101,309",81.3%,"101,605",58.5%
+15,Gloucester,4140,Pitman Boro School District,2024-25,All Students,92,80.4%,92,63.0%,"101,309",81.3%,"101,605",58.5%
+15,Gloucester,4940,Delsea Regional High School District,2024-25,All Students,246,69.9%,247,53.8%,"101,309",81.3%,"101,605",58.5%
+15,Gloucester,5500,Washington Township School District,2024-25,All Students,514,87.0%,512,60.2%,"101,309",81.3%,"101,605",58.5%
+15,Gloucester,5620,West Deptford Township School District,2024-25,All Students,182,90.1%,182,44.5%,"101,309",81.3%,"101,605",58.5%
+15,Gloucester,5860,Woodbury City Public School District,2024-25,All Students,98,66.3%,98,41.8%,"101,309",81.3%,"101,605",58.5%
+17,Hudson,0220,Bayonne School District,2024-25,All Students,675,72.9%,677,41.8%,"101,309",81.3%,"101,605",58.5%
+17,Hudson,2060,Harrison Public Schools,2024-25,All Students,173,77.5%,181,42.0%,"101,309",81.3%,"101,605",58.5%
+17,Hudson,2210,Hoboken Public School District,2024-25,All Students,136,89.0%,136,64.7%,"101,309",81.3%,"101,605",58.5%
+17,Hudson,2295,Hudson County Schools of Technology School District,2024-25,All Students,525,99.0%,525,83.4%,"101,309",81.3%,"101,605",58.5%
+17,Hudson,2390,Jersey City Public Schools,2024-25,All Students,"1,285",71.9%,"1,286",43.5%,"101,309",81.3%,"101,605",58.5%
+17,Hudson,2410,Kearny,2024-25,All Students,428,82.9%,434,48.8%,"101,309",81.3%,"101,605",58.5%
+17,Hudson,3610,North Bergen School District,2024-25,All Students,489,72.0%,493,40.2%,"101,309",81.3%,"101,605",58.5%
+17,Hudson,4730,Secaucus School District,2024-25,All Students,159,93.1%,159,54.7%,"101,309",81.3%,"101,605",58.5%
+17,Hudson,5240,Union City School District,2024-25,All Students,879,71.2%,879,39.0%,"101,309",81.3%,"101,605",58.5%
+17,Hudson,5580,Weehawken Public School District,2024-25,All Students,89,88.8%,89,62.9%,"101,309",81.3%,"101,605",58.5%
+17,Hudson,5670,West New York School District,2024-25,All Students,572,68.2%,578,35.8%,"101,309",81.3%,"101,605",58.5%
+19,Hunterdon,1050,Delaware Valley Regional High School District,2024-25,All Students,184,84.8%,184,69.0%,"101,309",81.3%,"101,605",58.5%
+19,Hunterdon,1376,South Hunterdon Regional School District,2024-25,All Students,58,93.1%,59,66.1%,"101,309",81.3%,"101,605",58.5%
+19,Hunterdon,2300,Hunterdon Central Regional High School District,2024-25,All Students,543,87.7%,546,69.4%,"101,309",81.3%,"101,605",58.5%
+19,Hunterdon,2308,Hunterdon County Vocational School District,2024-25,All Students,71,100.0%,71,88.7%,"101,309",81.3%,"101,605",58.5%
+19,Hunterdon,3660,North Hunterdon-Voorhees Regional High School District,2024-25,All Students,477,92.7%,477,77.4%,"101,309",81.3%,"101,605",58.5%
+21,Mercer,1245,East Windsor Regional School District,2024-25,All Students,409,80.2%,417,56.1%,"101,309",81.3%,"101,605",58.5%
+21,Mercer,1430,Ewing Township School District,2024-25,All Students,298,64.8%,300,42.0%,"101,309",81.3%,"101,605",58.5%
+21,Mercer,1950,Hamilton Township Public School District,2024-25,All Students,953,68.7%,960,38.5%,"101,309",81.3%,"101,605",58.5%
+21,Mercer,2280,Hopewell Valley Regional School District,2024-25,All Students,284,93.0%,284,85.9%,"101,309",81.3%,"101,605",58.5%
+21,Mercer,2580,Lawrence Township Public School District,2024-25,All Students,315,87.0%,313,57.2%,"101,309",81.3%,"101,605",58.5%
+21,Mercer,3105,Area Vocational Technical School District of Mercer County,2024-25,All Students,Valid score counts cannot be shown to protect the privacy of other smaller groups.,93.6%,Valid score counts cannot be shown to protect the privacy of other smaller groups.,67.4%,"101,309",81.3%,"101,605",58.5%
+21,Mercer,4255,Princeton Public School District,2024-25,All Students,381,92.1%,380,83.7%,"101,309",81.3%,"101,605",58.5%
+21,Mercer,5210,Trenton Public School District,2024-25,All Students,797,32.1%,815,11.7%,"101,309",81.3%,"101,605",58.5%
+21,Mercer,5510,Robbinsville Public School District,2024-25,All Students,274,91.2%,274,80.3%,"101,309",81.3%,"101,605",58.5%
+21,Mercer,5715,West Windsor-Plainsboro Regional School District,2024-25,All Students,776,96.5%,776,88.9%,"101,309",81.3%,"101,605",58.5%
+23,Middlesex,0750,Carteret Public School District,2024-25,All Students,307,78.5%,307,43.3%,"101,309",81.3%,"101,605",58.5%
+23,Middlesex,1140,Dunellen Public School District,2024-25,All Students,112,83.9%,114,62.3%,"101,309",81.3%,"101,605",58.5%
+23,Middlesex,1170,East Brunswick Township School District,2024-25,All Students,708,91.7%,708,79.8%,"101,309",81.3%,"101,605",58.5%
+23,Middlesex,1290,Edison Township School District,2024-25,All Students,"1,211",86.0%,"1,215",72.9%,"101,309",81.3%,"101,605",58.5%
+23,Middlesex,2150,Highland Park Boro School District,2024-25,All Students,127,84.3%,127,58.3%,"101,309",81.3%,"101,605",58.5%
+23,Middlesex,3120,Metuchen Public School District,2024-25,All Students,160,96.9%,160,83.7%,"101,309",81.3%,"101,605",58.5%
+23,Middlesex,3140,Middlesex Borough School District,2024-25,All Students,140,88.6%,140,52.1%,"101,309",81.3%,"101,605",58.5%
+23,Middlesex,3150,Middlesex County Vocational and Technical School District,2024-25,All Students,515,91.8%,515,70.1%,"101,309",81.3%,"101,605",58.5%
+23,Middlesex,3290,Monroe Township School District,2024-25,All Students,620,89.2%,622,75.1%,"101,309",81.3%,"101,605",58.5%
+23,Middlesex,3530,New Brunswick School District,2024-25,All Students,548,72.8%,549,33.2%,"101,309",81.3%,"101,605",58.5%
+23,Middlesex,3620,North Brunswick Township School District,2024-25,All Students,441,76.0%,440,44.5%,"101,309",81.3%,"101,605",58.5%
+23,Middlesex,3845,Old Bridge Township School District,2024-25,All Students,659,76.0%,659,53.9%,"101,309",81.3%,"101,605",58.5%
+23,Middlesex,4090,Perth Amboy Public School District,2024-25,All Students,678,68.0%,689,31.6%,"101,309",81.3%,"101,605",58.5%
+23,Middlesex,4130,Piscataway Township School District,2024-25,All Students,508,79.3%,510,59.4%,"101,309",81.3%,"101,605",58.5%
+23,Middlesex,4660,Sayreville School District,2024-25,All Students,457,91.0%,456,66.0%,"101,309",81.3%,"101,605",58.5%
+23,Middlesex,4830,South Amboy School District,2024-25,All Students,87,85.1%,88,65.9%,"101,309",81.3%,"101,605",58.5%
+23,Middlesex,4860,South Brunswick School District,2024-25,All Students,657,89.2%,658,81.2%,"101,309",81.3%,"101,605",58.5%
+23,Middlesex,4910,South Plainfield School District,2024-25,All Students,268,89.6%,267,66.3%,"101,309",81.3%,"101,605",58.5%
+23,Middlesex,4920,South River Public School District,2024-25,All Students,194,64.9%,196,44.9%,"101,309",81.3%,"101,605",58.5%
+23,Middlesex,4970,Spotswood Public School District,2024-25,All Students,174,87.4%,174,74.1%,"101,309",81.3%,"101,605",58.5%
+23,Middlesex,5850,Woodbridge Township School District,2024-25,All Students,"1,104",74.3%,"1,104",47.8%,"101,309",81.3%,"101,605",58.5%
+25,Monmouth,0100,Asbury Park School District,2024-25,All Students,83,66.3%,86,39.5%,"101,309",81.3%,"101,605",58.5%
+25,Monmouth,1456,Henry Hudson Regional School District,2024-25,All Students,38,97.4%,38,73.7%,"101,309",81.3%,"101,605",58.5%
+25,Monmouth,1650,Freehold Regional High School District,2024-25,All Students,"2,457",89.1%,"2,460",75.4%,"101,309",81.3%,"101,605",58.5%
+25,Monmouth,2105,Hazlet Township Public School District,2024-25,All Students,172,85.5%,172,62.8%,"101,309",81.3%,"101,605",58.5%
+25,Monmouth,2230,Holmdel Township School District,2024-25,All Students,226,96.5%,225,89.3%,"101,309",81.3%,"101,605",58.5%
+25,Monmouth,2400,Keansburg School District,2024-25,All Students,93,61.3%,92,29.3%,"101,309",81.3%,"101,605",58.5%
+25,Monmouth,2430,Keyport School District,2024-25,All Students,113,85.0%,114,42.1%,"101,309",81.3%,"101,605",58.5%
+25,Monmouth,2770,LONG BRANCH PUBLIC SCHOOL District,2024-25,All Students,335,63.9%,335,31.3%,"101,309",81.3%,"101,605",58.5%
+25,Monmouth,2930,Manasquan School District,2024-25,All Students,220,92.3%,223,78.9%,"101,309",81.3%,"101,605",58.5%
+25,Monmouth,3040,Matawan-Aberdeen Regional School District,2024-25,All Students,247,91.9%,247,63.6%,"101,309",81.3%,"101,605",58.5%
+25,Monmouth,3160,Middletown Township Public School District,2024-25,All Students,684,90.8%,684,70.5%,"101,309",81.3%,"101,605",58.5%
+25,Monmouth,3260,Monmouth County Vocational School District,2024-25,All Students,382,99.5%,382,96.3%,"101,309",81.3%,"101,605",58.5%
+25,Monmouth,3270,Monmouth Regional High School,2024-25,All Students,212,83.0%,212,50.5%,"101,309",81.3%,"101,605",58.5%
+25,Monmouth,3510,Neptune Township School District,2024-25,All Students,284,62.7%,284,32.7%,"101,309",81.3%,"101,605",58.5%
+25,Monmouth,3810,Township of Ocean School District,2024-25,All Students,234,80.8%,233,57.5%,"101,309",81.3%,"101,605",58.5%
+25,Monmouth,4365,Red Bank Regional School District,2024-25,All Students,324,82.7%,324,65.4%,"101,309",81.3%,"101,605",58.5%
+25,Monmouth,4580,Rumson-Fair Haven Regional High School District,2024-25,All Students,209,97.6%,209,92.8%,"101,309",81.3%,"101,605",58.5%
+25,Monmouth,4760,Shore Regional High School District,2024-25,All Students,129,94.6%,129,76.7%,"101,309",81.3%,"101,605",58.5%
+25,Monmouth,5310,Upper Freehold Regional School District,2024-25,All Students,262,89.3%,261,78.5%,"101,309",81.3%,"101,605",58.5%
+25,Monmouth,5420,Wall Township Public School District,2024-25,All Students,246,88.6%,246,72.4%,"101,309",81.3%,"101,605",58.5%
+27,Morris,0450,Boonton Town Public School District,2024-25,All Students,172,89.0%,173,63.6%,"101,309",81.3%,"101,605",58.5%
+27,Morris,0630,Butler Public School District,2024-25,All Students,130,84.6%,130,63.1%,"101,309",81.3%,"101,605",58.5%
+27,Morris,0785,School District of the Chathams,2024-25,All Students,296,96.3%,297,88.2%,"101,309",81.3%,"101,605",58.5%
+27,Morris,1110,Dover Public School District,2024-25,All Students,249,65.1%,267,36.3%,"101,309",81.3%,"101,605",58.5%
+27,Morris,1990,Hanover Park Regional High School District,2024-25,All Students,322,92.2%,323,78.6%,"101,309",81.3%,"101,605",58.5%
+27,Morris,2380,Jefferson Township Public School District,2024-25,All Students,183,88.5%,185,60.0%,"101,309",81.3%,"101,605",58.5%
+27,Morris,2460,Kinnelon School District,2024-25,All Students,120,96.7%,120,86.7%,"101,309",81.3%,"101,605",58.5%
+27,Morris,2870,Madison Public School District,2024-25,All Students,205,92.7%,205,82.4%,"101,309",81.3%,"101,605",58.5%
+27,Morris,3340,Montville Township School District,2024-25,All Students,288,95.8%,288,81.3%,"101,309",81.3%,"101,605",58.5%
+27,Morris,3365,Morris County Vocational School District,2024-25,All Students,Valid score counts cannot be shown to protect the privacy of other smaller groups.,99.7%,Valid score counts cannot be shown to protect the privacy of other smaller groups.,95.7%,"101,309",81.3%,"101,605",58.5%
+27,Morris,3370,Morris Hills Regional School District,2024-25,All Students,626,93.9%,626,74.9%,"101,309",81.3%,"101,605",58.5%
+27,Morris,3385,Morris School District,2024-25,All Students,453,77.9%,447,56.4%,"101,309",81.3%,"101,605",58.5%
+27,Morris,3450,Mount Olive Township School District,2024-25,All Students,375,88.0%,377,77.2%,"101,309",81.3%,"101,605",58.5%
+27,Morris,3460,Mountain Lakes Public School District,2024-25,All Students,126,95.2%,127,85.8%,"101,309",81.3%,"101,605",58.5%
+27,Morris,3950,Parsippany-Troy Hills Township School District,2024-25,All Students,467,87.8%,467,71.7%,"101,309",81.3%,"101,605",58.5%
+27,Morris,4080,Pequannock Township School District,2024-25,All Students,150,94.7%,150,84.0%,"101,309",81.3%,"101,605",58.5%
+27,Morris,4330,Randolph Township School District,2024-25,All Students,311,96.5%,311,79.4%,"101,309",81.3%,"101,605",58.5%
+27,Morris,4560,Roxbury Township School District,2024-25,All Students,285,84.2%,286,62.2%,"101,309",81.3%,"101,605",58.5%
+27,Morris,5660,West Morris Regional High School District,2024-25,All Students,493,93.1%,493,83.2%,"101,309",81.3%,"101,605",58.5%
+29,Ocean,0185,Barnegat Township School District,2024-25,All Students,246,80.1%,247,55.1%,"101,309",81.3%,"101,605",58.5%
+29,Ocean,0530,Brick Township Public School District,2024-25,All Students,662,82.3%,670,47.5%,"101,309",81.3%,"101,605",58.5%
+29,Ocean,0770,Central Regional School District,2024-25,All Students,364,74.2%,364,48.1%,"101,309",81.3%,"101,605",58.5%
+29,Ocean,2360,Jackson Township School District,2024-25,All Students,593,80.6%,596,52.3%,"101,309",81.3%,"101,605",58.5%
+29,Ocean,2480,Lacey Township School District,2024-25,All Students,287,76.0%,287,56.4%,"101,309",81.3%,"101,605",58.5%
+29,Ocean,2520,Lakewood Township School District,2024-25,All Students,283,69.6%,289,48.1%,"101,309",81.3%,"101,605",58.5%
+29,Ocean,2940,Manchester Township School District,2024-25,All Students,264,78.8%,264,45.1%,"101,309",81.3%,"101,605",58.5%
+29,Ocean,3790,Ocean County Vocational Technical School District,2024-25,All Students,152,96.7%,152,75.0%,"101,309",81.3%,"101,605",58.5%
+29,Ocean,4105,Pinelands Regional School District,2024-25,All Students,249,66.7%,249,36.1%,"101,309",81.3%,"101,605",58.5%
+29,Ocean,4190,Plumsted Township School District,2024-25,All Students,84,84.5%,84,61.9%,"101,309",81.3%,"101,605",58.5%
+29,Ocean,4210,Point Pleasant Borough School District,2024-25,All Students,213,93.9%,212,73.6%,"101,309",81.3%,"101,605",58.5%
+29,Ocean,4220,Point Pleasant Beach School District,2024-25,All Students,83,86.7%,83,69.9%,"101,309",81.3%,"101,605",58.5%
+29,Ocean,4950,Southern Regional School District,2024-25,All Students,393,84.7%,393,69.7%,"101,309",81.3%,"101,605",58.5%
+29,Ocean,5190,Toms River Regional School District,2024-25,All Students,"1,198",78.9%,"1,198",47.7%,"101,309",81.3%,"101,605",58.5%
+31,Passaic,0900,Clifton Public School District,2024-25,All Students,752,75.1%,779,46.2%,"101,309",81.3%,"101,605",58.5%
+31,Passaic,2100,Hawthorne Public School District,2024-25,All Students,163,89.6%,164,54.9%,"101,309",81.3%,"101,605",58.5%
+31,Passaic,2510,Lakeland Regional High School District,2024-25,All Students,189,88.9%,188,63.8%,"101,309",81.3%,"101,605",58.5%
+31,Passaic,3970,Passaic City School District,2024-25,All Students,898,57.0%,899,29.0%,"101,309",81.3%,"101,605",58.5%
+31,Passaic,3980,Passaic County Manchester Regional High School District,2024-25,All Students,196,68.9%,207,26.6%,"101,309",81.3%,"101,605",58.5%
+31,Passaic,3990,Passaic Valley Regional High School District,2024-25,All Students,256,85.2%,256,46.9%,"101,309",81.3%,"101,605",58.5%
+31,Passaic,3995,Passaic County Technical-Vocational School District,2024-25,All Students,"1,074",93.9%,"1,075",78.0%,"101,309",81.3%,"101,605",58.5%
+31,Passaic,4010,Paterson Public School District,2024-25,All Students,"1,372",45.4%,"1,372",19.0%,"101,309",81.3%,"101,605",58.5%
+31,Passaic,4230,Pompton Lakes School District,2024-25,All Students,139,87.1%,139,59.0%,"101,309",81.3%,"101,605",58.5%
+31,Passaic,5570,Wayne Township Public School District,2024-25,All Students,591,86.3%,586,69.8%,"101,309",81.3%,"101,605",58.5%
+31,Passaic,5650,West Milford Township Public School District,2024-25,All Students,254,88.6%,254,67.3%,"101,309",81.3%,"101,605",58.5%
+33,Salem,4070,Penns Grove-Carneys Point Regional School District,2024-25,All Students,163,60.1%,166,23.5%,"101,309",81.3%,"101,605",58.5%
+33,Salem,4075,Pennsville School District,2024-25,All Students,127,67.7%,129,44.2%,"101,309",81.3%,"101,605",58.5%
+33,Salem,4150,Pittsgrove Township School District,2024-25,All Students,119,77.3%,119,52.9%,"101,309",81.3%,"101,605",58.5%
+33,Salem,4630,Salem City School District,2024-25,All Students,83,61.4%,82,40.2%,"101,309",81.3%,"101,605",58.5%
+33,Salem,4640,Salem County Vocational Technical School District,2024-25,All Students,193,85.0%,192,61.5%,"101,309",81.3%,"101,605",58.5%
+33,Salem,5910,Woodstown-Pilesgrove Regional School District,2024-25,All Students,149,82.6%,149,59.1%,"101,309",81.3%,"101,605",58.5%
+35,Somerset,0350,Bernards Township School District,2024-25,All Students,377,95.8%,376,91.5%,"101,309",81.3%,"101,605",58.5%
+35,Somerset,0490,Bound Brook School District,2024-25,All Students,178,67.4%,185,35.7%,"101,309",81.3%,"101,605",58.5%
+35,Somerset,0555,Bridgewater-Raritan Regional School District,2024-25,All Students,657,90.3%,657,79.3%,"101,309",81.3%,"101,605",58.5%
+35,Somerset,1610,Franklin Township Public School District,2024-25,All Students,528,79.4%,527,45.9%,"101,309",81.3%,"101,605",58.5%
+35,Somerset,2170,Hillsborough Township Public School District,2024-25,All Students,574,94.1%,573,83.6%,"101,309",81.3%,"101,605",58.5%
+35,Somerset,3000,Manville School District,2024-25,All Students,141,83.0%,141,39.7%,"101,309",81.3%,"101,605",58.5%
+35,Somerset,3320,Montgomery Township School District,2024-25,All Students,398,95.5%,398,92.0%,"101,309",81.3%,"101,605",58.5%
+35,Somerset,3670,North Plainfield School District,2024-25,All Students,283,68.9%,283,40.6%,"101,309",81.3%,"101,605",58.5%
+35,Somerset,4810,Somerset County Vocational and Technical School District,2024-25,All Students,81,92.6%,81,75.3%,"101,309",81.3%,"101,605",58.5%
+35,Somerset,4815,Somerset Hills Regional School District,2024-25,All Students,197,88.8%,197,80.2%,"101,309",81.3%,"101,605",58.5%
+35,Somerset,4820,Somerville Public School District,2024-25,All Students,252,92.5%,254,72.4%,"101,309",81.3%,"101,605",58.5%
+35,Somerset,5550,Watchung Hills Regional High School District,2024-25,All Students,418,90.7%,418,77.8%,"101,309",81.3%,"101,605",58.5%
+37,Sussex,2165,High Point Regional High School District,2024-25,All Students,192,81.3%,192,58.3%,"101,309",81.3%,"101,605",58.5%
+37,Sussex,2240,Hopatcong Borough School District,2024-25,All Students,100,84.0%,100,51.0%,"101,309",81.3%,"101,605",58.5%
+37,Sussex,2465,Kittatinny Regional School District,2024-25,All Students,99,90.9%,99,65.7%,"101,309",81.3%,"101,605",58.5%
+37,Sussex,2615,Lenape Valley Regional High School District,2024-25,All Students,174,92.0%,174,71.8%,"101,309",81.3%,"101,605",58.5%
+37,Sussex,3590,Newton Public School District,2024-25,All Students,160,86.3%,160,65.6%,"101,309",81.3%,"101,605",58.5%
+37,Sussex,4960,Sparta Township Public School District,2024-25,All Students,252,91.3%,250,76.0%,"101,309",81.3%,"101,605",58.5%
+37,Sussex,5110,Sussex County Technical School District,2024-25,All Students,171,86.0%,172,61.0%,"101,309",81.3%,"101,605",58.5%
+37,Sussex,5360,Vernon Township School District,2024-25,All Students,212,88.7%,211,64.9%,"101,309",81.3%,"101,605",58.5%
+37,Sussex,5435,Wallkill Valley Regional High School,2024-25,All Students,143,84.6%,143,67.1%,"101,309",81.3%,"101,605",58.5%
+39,Union,0310,Berkeley Heights School District,2024-25,All Students,208,93.8%,208,86.5%,"101,309",81.3%,"101,605",58.5%
+39,Union,0850,Clark Township Public School District,2024-25,All Students,208,97.1%,209,68.4%,"101,309",81.3%,"101,605",58.5%
+39,Union,0980,Cranford Public School District,2024-25,All Students,270,93.7%,270,81.1%,"101,309",81.3%,"101,605",58.5%
+39,Union,1320,Elizabeth Public Schools,2024-25,All Students,"1,862",72.1%,"1,864",49.2%,"101,309",81.3%,"101,605",58.5%
+39,Union,2190,Hillside Public School District,2024-25,All Students,221,74.7%,219,32.4%,"101,309",81.3%,"101,605",58.5%
+39,Union,2420,Kenilworth School District,2024-25,All Students,148,79.7%,148,46.6%,"101,309",81.3%,"101,605",58.5%
+39,Union,2660,Linden Public School District,2024-25,All Students,484,76.7%,484,39.5%,"101,309",81.3%,"101,605",58.5%
+39,Union,3560,New Providence School District,2024-25,All Students,147,95.9%,147,92.5%,"101,309",81.3%,"101,605",58.5%
+39,Union,4160,Plainfield Public School District,2024-25,All Students,548,52.9%,547,22.1%,"101,309",81.3%,"101,605",58.5%
+39,Union,4290,Rahway Public School District,2024-25,All Students,316,68.0%,316,32.6%,"101,309",81.3%,"101,605",58.5%
+39,Union,4540,Roselle Public School District,2024-25,All Students,267,77.5%,267,18.0%,"101,309",81.3%,"101,605",58.5%
+39,Union,4550,Roselle Park Public School District,2024-25,All Students,147,87.8%,147,55.1%,"101,309",81.3%,"101,605",58.5%
+39,Union,4670,Scotch Plains-Fanwood School District,2024-25,All Students,355,93.5%,354,81.6%,"101,309",81.3%,"101,605",58.5%
+39,Union,5000,Springfield Public School District,2024-25,All Students,177,89.3%,176,70.5%,"101,309",81.3%,"101,605",58.5%
+39,Union,5090,Summit Public School District,2024-25,All Students,284,93.7%,283,79.9%,"101,309",81.3%,"101,605",58.5%
+39,Union,5260,Union County Vocational-Technical School District,2024-25,All Students,417,99.0%,417,95.0%,"101,309",81.3%,"101,605",58.5%
+39,Union,5290,Township of Union School District,2024-25,All Students,592,73.1%,593,40.0%,"101,309",81.3%,"101,605",58.5%
+39,Union,5730,Westfield Public School District,2024-25,All Students,410,96.3%,414,87.7%,"101,309",81.3%,"101,605",58.5%
+41,Warren,0280,Belvidere School District,2024-25,All Students,80,77.5%,80,51.2%,"101,309",81.3%,"101,605",58.5%
+41,Warren,1870,Hackettstown Public School District,2024-25,All Students,211,87.2%,211,71.1%,"101,309",81.3%,"101,605",58.5%
+41,Warren,3675,North Warren Regional,2024-25,All Students,94,92.6%,94,66.0%,"101,309",81.3%,"101,605",58.5%
+41,Warren,4100,Phillipsburg School District,2024-25,All Students,401,77.3%,405,45.9%,"101,309",81.3%,"101,605",58.5%
+41,Warren,5460,Warren County Vocational Technical School,2024-25,All Students,93,100.0%,93,89.2%,"101,309",81.3%,"101,605",58.5%
+41,Warren,5465,Warren Hills Regional School District,2024-25,All Students,278,84.9%,280,64.6%,"101,309",81.3%,"101,605",58.5%
+80,Monmouth,6010,Academy Charter High School,2024-25,All Students,42,88.1%,42,19.0%,"101,309",81.3%,"101,605",58.5%
+80,Bergen,6013,Bergen Arts and Science Charter School,2024-25,All Students,86,94.2%,86,72.1%,"101,309",81.3%,"101,605",58.5%
+80,Mercer,6017,Foundation Academy Charter School,2024-25,All Students,70,92.9%,72,51.4%,"101,309",81.3%,"101,605",58.5%
+80,Somerset,6018,Central Jersey College Prep Charter School,2024-25,All Students,123,94.3%,123,84.6%,"101,309",81.3%,"101,605",58.5%
+80,Middlesex,6032,Academy for Urban Leadership Charter School,2024-25,All Students,34,58.8%,34,14.7%,"101,309",81.3%,"101,605",58.5%
+80,Union,6033,Barack Obama Green Charter School District,2024-25,All Students,60,66.7%,60,23.3%,"101,309",81.3%,"101,605",58.5%
+80,Essex,6053,Great Oaks Legacy Charter School,2024-25,All Students,88,71.6%,89,29.2%,"101,309",81.3%,"101,605",58.5%
+80,Passaic,6080,Passaic Arts and Science Charter School,2024-25,All Students,72,77.8%,72,44.4%,"101,309",81.3%,"101,605",58.5%
+80,Somerset,6081,Thomas Edison EnergySmart Charter School,2024-25,All Students,44,100.0%,44,100.0%,"101,309",81.3%,"101,605",58.5%
+80,Hudson,6082,BelovED Community Charter,2024-25,All Students,120,92.5%,120,54.2%,"101,309",81.3%,"101,605",58.5%
+80,Passaic,6096,Paterson Arts and Science Charter School,2024-25,All Students,71,80.3%,71,60.6%,"101,309",81.3%,"101,605",58.5%
+80,Union,6101,College Achieve Central Charter School,2024-25,All Students,123,95.9%,123,67.5%,"101,309",81.3%,"101,605",58.5%
+80,Camden,6107,Camden's Promise Charter School,2024-25,All Students,169,54.4%,169,43.2%,"101,309",81.3%,"101,605",58.5%
+80,Essex,6109,LEAD Charter School,2024-25,All Students,43,62.8%,41,12.2%,"101,309",81.3%,"101,605",58.5%
+80,Mercer,6183,Trenton STEM-to-Civics Charter School,2024-25,All Students,103,59.2%,104,13.5%,"101,309",81.3%,"101,605",58.5%
+80,Hudson,6720,Hoboken Charter School District,2024-25,All Students,25,88.0%,25,48.0%,"101,309",81.3%,"101,605",58.5%
+80,Essex,7021,Gateway Academy Charter School,2024-25,All Students,69,91.3%,69,43.5%,"101,309",81.3%,"101,605",58.5%
+80,Camden,7109,LEAP Academy University Charter School,2024-25,All Students,109,79.8%,109,44.0%,"101,309",81.3%,"101,605",58.5%
+80,Essex,7210,Marion P. Thomas Charter School,2024-25,All Students,107,82.2%,107,29.9%,"101,309",81.3%,"101,605",58.5%
+80,Essex,7320,North Star Academy Charter School,2024-25,All Students,363,87.3%,363,64.2%,"101,309",81.3%,"101,605",58.5%
+80,Essex,7325,TEAM Academy Charter School,2024-25,All Students,320,74.1%,319,39.5%,"101,309",81.3%,"101,605",58.5%
+80,Atlantic,7410,Chartertech High School for the Performing Arts,2024-25,All Students,66,62.1%,65,24.6%,"101,309",81.3%,"101,605",58.5%
+80,Passaic,7503,Paterson Charter School for Science and Technology,2024-25,All Students,92,80.4%,92,39.1%,"101,309",81.3%,"101,605",58.5%
+80,Union,7600,The Queen City Academy Charter School District,2024-25,All Students,27,85.2%,27,22.2%,"101,309",81.3%,"101,605",58.5%
+80,Monmouth,7891,College Achieve Greater Asbury Park Charter School District,2024-25,All Students,27,88.9%,27,22.2%,"101,309",81.3%,"101,605",58.5%
+80,Passaic,7892,College Achieve Paterson Charter School,2024-25,All Students,104,90.4%,105,63.8%,"101,309",81.3%,"101,605",58.5%
+80,Mercer,7895,Achievers Early College Prep Charter School,2024-25,All Students,50,74.0%,50,34.0%,"101,309",81.3%,"101,605",58.5%
+80,Mercer,7902,Thrive Charter School,2024-25,All Students,59,64.4%,59,23.7%,"101,309",81.3%,"101,605",58.5%
+80,Union,8010,Union County TEAMS Charter School-High School/College LA,2024-25,All Students,26,80.8%,26,30.8%,"101,309",81.3%,"101,605",58.5%
+80,Hudson,8060,University Academy Charter High School,2024-25,All Students,99,65.7%,99,30.3%,"101,309",81.3%,"101,605",58.5%
+State,State,State,State,2024-25,All Students,,,,,"101,309",81.3%,"101,605",58.5%

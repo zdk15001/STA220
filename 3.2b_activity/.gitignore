@@ -1,0 +1,7 @@
+.Rhistory
+.RData
+.Rproj.user/
+Rplots.pdf
+
+# Too big for GitHub (119 MB). It stays on my computer; the README says where to download it.
+data/Database_DistrictStateDetail.xlsx

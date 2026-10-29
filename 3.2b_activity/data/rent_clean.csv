@@ -1,0 +1,565 @@
+geo_id,name,median_rent,rent_moe,rent_top_coded
+3400100100,"Absecon city, Atlantic County, New Jersey",1807,239,FALSE
+3400102080,"Atlantic City city, Atlantic County, New Jersey",1136,36,FALSE
+3400107810,"Brigantine city, Atlantic County, New Jersey",1517,128,FALSE
+3400108680,"Buena borough, Atlantic County, New Jersey",1156,161,FALSE
+3400108710,"Buena Vista township, Atlantic County, New Jersey",NA,NA,NA
+3400115160,"Corbin City city, Atlantic County, New Jersey",1307,306,FALSE
+3400120290,"Egg Harbor township, Atlantic County, New Jersey",1456,102,FALSE
+3400120350,"Egg Harbor City city, Atlantic County, New Jersey",1451,494,FALSE
+3400121870,"Estell Manor city, Atlantic County, New Jersey",1500,256,FALSE
+3400123940,"Folsom borough, Atlantic County, New Jersey",1705,110,FALSE
+3400125560,"Galloway township, Atlantic County, New Jersey",1619,127,FALSE
+3400129280,"Hamilton township, Atlantic County, New Jersey",1691,89,FALSE
+3400129430,"Hammonton town, Atlantic County, New Jersey",1611,157,FALSE
+3400140530,"Linwood city, Atlantic County, New Jersey",2188,192,FALSE
+3400141370,"Longport borough, Atlantic County, New Jersey",2514,866,FALSE
+3400143890,"Margate City city, Atlantic County, New Jersey",1347,237,FALSE
+3400149410,"Mullica township, Atlantic County, New Jersey",1125,620,FALSE
+3400152950,"Northfield city, Atlantic County, New Jersey",1835,228,FALSE
+3400159640,"Pleasantville city, Atlantic County, New Jersey",1354,177,FALSE
+3400160600,"Port Republic city, Atlantic County, New Jersey",2031,562,FALSE
+3400168430,"Somers Point city, Atlantic County, New Jersey",1383,106,FALSE
+3400175620,"Ventnor City city, Atlantic County, New Jersey",1417,94,FALSE
+3400180330,"Weymouth township, Atlantic County, New Jersey",1300,1034,FALSE
+3400300700,"Allendale borough, Bergen County, New Jersey",2590,866,FALSE
+3400301090,"Alpine borough, Bergen County, New Jersey",2750,1633,FALSE
+3400305170,"Bergenfield borough, Bergen County, New Jersey",1752,83,FALSE
+3400306490,"Bogota borough, Bergen County, New Jersey",1941,157,FALSE
+3400310480,"Carlstadt borough, Bergen County, New Jersey",1645,157,FALSE
+3400313570,"Cliffside Park borough, Bergen County, New Jersey",1837,89,FALSE
+3400313810,"Closter borough, Bergen County, New Jersey",2721,286,FALSE
+3400315820,"Cresskill borough, Bergen County, New Jersey",2599,1033,FALSE
+3400317530,"Demarest borough, Bergen County, New Jersey",3500,NA,TRUE
+3400318400,"Dumont borough, Bergen County, New Jersey",1787,83,FALSE
+3400319510,"East Rutherford borough, Bergen County, New Jersey",1952,195,FALSE
+3400320020,"Edgewater borough, Bergen County, New Jersey",2579,176,FALSE
+3400321300,"Elmwood Park borough, Bergen County, New Jersey",2074,102,FALSE
+3400321450,"Emerson borough, Bergen County, New Jersey",1887,221,FALSE
+3400321480,"Englewood city, Bergen County, New Jersey",1977,144,FALSE
+3400321510,"Englewood Cliffs borough, Bergen County, New Jersey",3500,NA,TRUE
+3400322470,"Fair Lawn borough, Bergen County, New Jersey",1917,88,FALSE
+3400322560,"Fairview borough, Bergen County, New Jersey",1694,95,FALSE
+3400324420,"Fort Lee borough, Bergen County, New Jersey",2270,112,FALSE
+3400324990,"Franklin Lakes borough, Bergen County, New Jersey",3230,207,FALSE
+3400325770,"Garfield city, Bergen County, New Jersey",1688,59,FALSE
+3400326640,"Glen Rock borough, Bergen County, New Jersey",1930,523,FALSE
+3400328680,"Hackensack city, Bergen County, New Jersey",1911,50,FALSE
+3400330150,"Harrington Park borough, Bergen County, New Jersey",1414,115,FALSE
+3400330420,"Hasbrouck Heights borough, Bergen County, New Jersey",1700,66,FALSE
+3400330540,"Haworth borough, Bergen County, New Jersey",3500,NA,TRUE
+3400331920,"Hillsdale borough, Bergen County, New Jersey",1764,261,FALSE
+3400332310,"Ho-Ho-Kus borough, Bergen County, New Jersey",2857,1505,FALSE
+3400340020,"Leonia borough, Bergen County, New Jersey",2073,235,FALSE
+3400340680,"Little Ferry borough, Bergen County, New Jersey",1783,132,FALSE
+3400341100,"Lodi borough, Bergen County, New Jersey",1714,50,FALSE
+3400342090,"Lyndhurst township, Bergen County, New Jersey",1796,128,FALSE
+3400342750,"Mahwah township, Bergen County, New Jersey",2204,206,FALSE
+3400344880,"Maywood borough, Bergen County, New Jersey",1854,117,FALSE
+3400346110,"Midland Park borough, Bergen County, New Jersey",1853,202,FALSE
+3400347610,"Montvale borough, Bergen County, New Jersey",2053,443,FALSE
+3400347700,"Moonachie borough, Bergen County, New Jersey",1127,341,FALSE
+3400351660,"New Milford borough, Bergen County, New Jersey",1765,44,FALSE
+3400352320,"North Arlington borough, Bergen County, New Jersey",1738,54,FALSE
+3400353430,"Northvale borough, Bergen County, New Jersey",1932,312,FALSE
+3400353610,"Norwood borough, Bergen County, New Jersey",2094,670,FALSE
+3400353850,"Oakland borough, Bergen County, New Jersey",1383,193,FALSE
+3400354870,"Old Tappan borough, Bergen County, New Jersey",3500,NA,TRUE
+3400354990,"Oradell borough, Bergen County, New Jersey",2305,837,FALSE
+3400355770,"Palisades Park borough, Bergen County, New Jersey",2009,149,FALSE
+3400355950,"Paramus borough, Bergen County, New Jersey",3032,340,FALSE
+3400356130,"Park Ridge borough, Bergen County, New Jersey",2257,482,FALSE
+3400361680,"Ramsey borough, Bergen County, New Jersey",2245,421,FALSE
+3400362910,"Ridgefield borough, Bergen County, New Jersey",2095,161,FALSE
+3400362940,"Ridgefield Park village, Bergen County, New Jersey",1731,153,FALSE
+3400363000,"Ridgewood village, Bergen County, New Jersey",2499,347,FALSE
+3400363360,"River Edge borough, Bergen County, New Jersey",1879,98,FALSE
+3400363690,"River Vale township, Bergen County, New Jersey",1455,1365,FALSE
+3400363990,"Rochelle Park township, Bergen County, New Jersey",1819,87,FALSE
+3400364170,"Rockleigh borough, Bergen County, New Jersey",3500,NA,TRUE
+3400365280,"Rutherford borough, Bergen County, New Jersey",1966,139,FALSE
+3400365340,"Saddle Brook township, Bergen County, New Jersey",2064,104,FALSE
+3400365400,"Saddle River borough, Bergen County, New Jersey",2211,2084,FALSE
+3400368970,"South Hackensack township, Bergen County, New Jersey",1924,146,FALSE
+3400372360,"Teaneck township, Bergen County, New Jersey",1832,108,FALSE
+3400372420,"Tenafly borough, Bergen County, New Jersey",3500,NA,TRUE
+3400372480,"Teterboro borough, Bergen County, New Jersey",1982,381,FALSE
+3400375140,"Upper Saddle River borough, Bergen County, New Jersey",3500,NA,TRUE
+3400376400,"Waldwick borough, Bergen County, New Jersey",3446,451,FALSE
+3400376490,"Wallington borough, Bergen County, New Jersey",1625,127,FALSE
+3400377135,"Washington township, Bergen County, New Jersey",2357,364,FALSE
+3400380270,"Westwood borough, Bergen County, New Jersey",2458,218,FALSE
+3400382300,"Woodcliff Lake borough, Bergen County, New Jersey",1888,394,FALSE
+3400382570,"Wood-Ridge borough, Bergen County, New Jersey",1878,158,FALSE
+3400383050,"Wyckoff township, Bergen County, New Jersey",2567,544,FALSE
+3400503370,"Bass River township, Burlington County, New Jersey",1821,385,FALSE
+3400505740,"Beverly city, Burlington County, New Jersey",1226,796,FALSE
+3400506670,"Bordentown city, Burlington County, New Jersey",1501,179,FALSE
+3400506700,"Bordentown township, Burlington County, New Jersey",1730,176,FALSE
+3400508920,"Burlington city, Burlington County, New Jersey",1631,108,FALSE
+3400508950,"Burlington township, Burlington County, New Jersey",1326,68,FALSE
+3400512670,"Chesterfield township, Burlington County, New Jersey",2500,769,FALSE
+3400512940,"Cinnaminson township, Burlington County, New Jersey",2063,171,FALSE
+3400517080,"Delanco township, Burlington County, New Jersey",985,114,FALSE
+3400517440,"Delran township, Burlington County, New Jersey",1458,74,FALSE
+3400518790,"Eastampton township, Burlington County, New Jersey",2183,451,FALSE
+3400520050,"Edgewater Park township, Burlington County, New Jersey",1491,146,FALSE
+3400522110,"Evesham township, Burlington County, New Jersey",2046,80,FALSE
+3400523250,"Fieldsboro borough, Burlington County, New Jersey",2231,98,FALSE
+3400523850,"Florence township, Burlington County, New Jersey",1407,82,FALSE
+3400529010,"Hainesport township, Burlington County, New Jersey",2002,1111,FALSE
+3400542060,"Lumberton township, Burlington County, New Jersey",1664,95,FALSE
+3400543290,"Mansfield township, Burlington County, New Jersey",2213,554,FALSE
+3400543740,"Maple Shade township, Burlington County, New Jersey",1638,48,FALSE
+3400545120,"Medford township, Burlington County, New Jersey",1589,167,FALSE
+3400545210,"Medford Lakes borough, Burlington County, New Jersey",2211,610,FALSE
+3400547880,"Moorestown township, Burlington County, New Jersey",1718,353,FALSE
+3400548900,"Mount Holly township, Burlington County, New Jersey",1605,144,FALSE
+3400549020,"Mount Laurel township, Burlington County, New Jersey",2143,85,FALSE
+3400551510,"New Hanover township, Burlington County, New Jersey",2985,205,FALSE
+3400553070,"North Hanover township, Burlington County, New Jersey",2294,130,FALSE
+3400555800,"Palmyra borough, Burlington County, New Jersey",1696,98,FALSE
+3400557480,"Pemberton borough, Burlington County, New Jersey",1334,101,FALSE
+3400557510,"Pemberton township, Burlington County, New Jersey",1345,144,FALSE
+3400563510,"Riverside township, Burlington County, New Jersey",1538,144,FALSE
+3400563660,"Riverton borough, Burlington County, New Jersey",1431,116,FALSE
+3400566810,"Shamong township, Burlington County, New Jersey",2228,1286,FALSE
+3400568610,"Southampton township, Burlington County, New Jersey",1755,256,FALSE
+3400569990,"Springfield township, Burlington County, New Jersey",1646,878,FALSE
+3400572060,"Tabernacle township, Burlington County, New Jersey",2014,1312,FALSE
+3400577150,"Washington township, Burlington County, New Jersey",1800,598,FALSE
+3400578200,"Westampton township, Burlington County, New Jersey",1360,127,FALSE
+3400581440,"Willingboro township, Burlington County, New Jersey",2112,121,FALSE
+3400582420,"Woodland township, Burlington County, New Jersey",1607,518,FALSE
+3400582960,"Wrightstown borough, Burlington County, New Jersey",1270,226,FALSE
+3400702200,"Audubon borough, Camden County, New Jersey",1290,121,FALSE
+3400702230,"Audubon Park borough, Camden County, New Jersey",979,60,FALSE
+3400703250,"Barrington borough, Camden County, New Jersey",1320,120,FALSE
+3400704750,"Bellmawr borough, Camden County, New Jersey",1257,127,FALSE
+3400705440,"Berlin borough, Camden County, New Jersey",1439,354,FALSE
+3400705470,"Berlin township, Camden County, New Jersey",1372,84,FALSE
+3400708170,"Brooklawn borough, Camden County, New Jersey",1392,161,FALSE
+3400710000,"Camden city, Camden County, New Jersey",1226,49,FALSE
+3400712280,"Cherry Hill township, Camden County, New Jersey",1882,158,FALSE
+3400712550,"Chesilhurst borough, Camden County, New Jersey",NA,NA,NA
+3400713420,"Clementon borough, Camden County, New Jersey",1169,359,FALSE
+3400714260,"Collingswood borough, Camden County, New Jersey",1488,123,FALSE
+3400726070,"Gibbsboro borough, Camden County, New Jersey",1420,1211,FALSE
+3400726760,"Gloucester township, Camden County, New Jersey",1592,64,FALSE
+3400726820,"Gloucester City city, Camden County, New Jersey",1484,173,FALSE
+3400728740,"Haddon township, Camden County, New Jersey",1745,105,FALSE
+3400728770,"Haddonfield borough, Camden County, New Jersey",1897,282,FALSE
+3400728800,"Haddon Heights borough, Camden County, New Jersey",1166,158,FALSE
+3400732220,"Hi-Nella borough, Camden County, New Jersey",1591,122,FALSE
+3400739210,"Laurel Springs borough, Camden County, New Jersey",1181,86,FALSE
+3400739420,"Lawnside borough, Camden County, New Jersey",1073,201,FALSE
+3400740440,"Lindenwold borough, Camden County, New Jersey",1323,48,FALSE
+3400742630,"Magnolia borough, Camden County, New Jersey",1427,276,FALSE
+3400745510,"Merchantville borough, Camden County, New Jersey",1212,140,FALSE
+3400748750,"Mount Ephraim borough, Camden County, New Jersey",1373,447,FALSE
+3400753880,"Oaklyn borough, Camden County, New Jersey",1246,141,FALSE
+3400757660,"Pennsauken township, Camden County, New Jersey",1209,76,FALSE
+3400758770,"Pine Hill borough, Camden County, New Jersey",1411,120,FALSE
+3400765160,"Runnemede borough, Camden County, New Jersey",1423,113,FALSE
+3400768340,"Somerdale borough, Camden County, New Jersey",1097,88,FALSE
+3400771220,"Stratford borough, Camden County, New Jersey",1190,95,FALSE
+3400772240,"Tavistock borough, Camden County, New Jersey",NA,NA,NA
+3400776220,"Voorhees township, Camden County, New Jersey",1754,47,FALSE
+3400777630,"Waterford township, Camden County, New Jersey",1541,934,FALSE
+3400781740,"Winslow township, Camden County, New Jersey",1394,125,FALSE
+3400782450,"Woodlynne borough, Camden County, New Jersey",1587,182,FALSE
+3400902320,"Avalon borough, Cape May County, New Jersey",1708,169,FALSE
+3400910270,"Cape May city, Cape May County, New Jersey",1013,454,FALSE
+3400910330,"Cape May Point borough, Cape May County, New Jersey",NA,NA,NA
+3400917560,"Dennis township, Cape May County, New Jersey",1578,308,FALSE
+3400941610,"Lower township, Cape May County, New Jersey",1386,171,FALSE
+3400945810,"Middle township, Cape May County, New Jersey",1500,266,FALSE
+3400953490,"North Wildwood city, Cape May County, New Jersey",1210,122,FALSE
+3400954360,"Ocean City city, Cape May County, New Jersey",1683,216,FALSE
+3400966390,"Sea Isle City city, Cape May County, New Jersey",NA,NA,NA
+3400971010,"Stone Harbor borough, Cape May County, New Jersey",1711,240,FALSE
+3400974810,"Upper township, Cape May County, New Jersey",1843,388,FALSE
+3400978530,"West Cape May borough, Cape May County, New Jersey",1232,580,FALSE
+3400980210,"West Wildwood borough, Cape May County, New Jersey",1225,755,FALSE
+3400981170,"Wildwood city, Cape May County, New Jersey",997,233,FALSE
+3400981200,"Wildwood Crest borough, Cape May County, New Jersey",957,163,FALSE
+3400981890,"Woodbine borough, Cape May County, New Jersey",945,150,FALSE
+3401107600,"Bridgeton city, Cumberland County, New Jersey",1340,100,FALSE
+3401114710,"Commercial township, Cumberland County, New Jersey",1465,340,FALSE
+3401116900,"Deerfield township, Cumberland County, New Jersey",1542,193,FALSE
+3401118220,"Downe township, Cumberland County, New Jersey",1273,795,FALSE
+3401122350,"Fairfield township, Cumberland County, New Jersey",1338,154,FALSE
+3401128170,"Greenwich township, Cumberland County, New Jersey",1063,483,FALSE
+3401133120,"Hopewell township, Cumberland County, New Jersey",972,615,FALSE
+3401139450,"Lawrence township, Cumberland County, New Jersey",1300,153,FALSE
+3401144580,"Maurice River township, Cumberland County, New Jersey",1625,150,FALSE
+3401146680,"Millville city, Cumberland County, New Jersey",1261,85,FALSE
+3401167020,"Shiloh borough, Cumberland County, New Jersey",NA,NA,NA
+3401171160,"Stow Creek township, Cumberland County, New Jersey",1458,452,FALSE
+3401174870,"Upper Deerfield township, Cumberland County, New Jersey",1516,743,FALSE
+3401176070,"Vineland city, Cumberland County, New Jersey",1233,78,FALSE
+3401304695,"Belleville township, Essex County, New Jersey",1639,84,FALSE
+3401306260,"Bloomfield township, Essex County, New Jersey",1824,58,FALSE
+3401309250,"Caldwell borough, Essex County, New Jersey",1976,197,FALSE
+3401311200,"Cedar Grove township, Essex County, New Jersey",1896,302,FALSE
+3401313045,"City of Orange township, Essex County, New Jersey",1550,69,FALSE
+3401319390,"East Orange city, Essex County, New Jersey",1441,67,FALSE
+3401321840,"Essex Fells borough, Essex County, New Jersey",3500,NA,TRUE
+3401322385,"Fairfield township, Essex County, New Jersey",2656,563,FALSE
+3401326610,"Glen Ridge borough, Essex County, New Jersey",2728,736,FALSE
+3401334450,"Irvington township, Essex County, New Jersey",1386,40,FALSE
+3401340890,"Livingston township, Essex County, New Jersey",2949,443,FALSE
+3401343800,"Maplewood township, Essex County, New Jersey",2269,210,FALSE
+3401346380,"Millburn township, Essex County, New Jersey",2262,237,FALSE
+3401347500,"Montclair township, Essex County, New Jersey",2063,92,FALSE
+3401351000,"Newark city, Essex County, New Jersey",1392,21,FALSE
+3401352620,"North Caldwell borough, Essex County, New Jersey",3329,294,FALSE
+3401353680,"Nutley township, Essex County, New Jersey",1767,65,FALSE
+3401364590,"Roseland borough, Essex County, New Jersey",3297,289,FALSE
+3401369274,"South Orange Village township, Essex County, New Jersey",2296,194,FALSE
+3401375815,"Verona township, Essex County, New Jersey",2130,170,FALSE
+3401378510,"West Caldwell township, Essex County, New Jersey",1877,278,FALSE
+3401379800,"West Orange township, Essex County, New Jersey",1897,92,FALSE
+3401513360,"Clayton borough, Gloucester County, New Jersey",1246,176,FALSE
+3401517710,"Deptford township, Gloucester County, New Jersey",1661,123,FALSE
+3401519180,"East Greenwich township, Gloucester County, New Jersey",NA,NA,NA
+3401521060,"Elk township, Gloucester County, New Jersey",1206,560,FALSE
+3401524840,"Franklin township, Gloucester County, New Jersey",1602,137,FALSE
+3401526340,"Glassboro borough, Gloucester County, New Jersey",1687,110,FALSE
+3401528185,"Greenwich township, Gloucester County, New Jersey",1297,346,FALSE
+3401530180,"Harrison township, Gloucester County, New Jersey",1137,351,FALSE
+3401541160,"Logan township, Gloucester County, New Jersey",NA,NA,NA
+3401543440,"Mantua township, Gloucester County, New Jersey",1579,218,FALSE
+3401547250,"Monroe township, Gloucester County, New Jersey",1384,113,FALSE
+3401549680,"National Park borough, Gloucester County, New Jersey",1355,122,FALSE
+3401551390,"Newfield borough, Gloucester County, New Jersey",1510,373,FALSE
+3401557150,"Paulsboro borough, Gloucester County, New Jersey",976,65,FALSE
+3401559070,"Pitman borough, Gloucester County, New Jersey",1521,164,FALSE
+3401569030,"South Harrison township, Gloucester County, New Jersey",2818,584,FALSE
+3401571850,"Swedesboro borough, Gloucester County, New Jersey",1606,328,FALSE
+3401577180,"Washington township, Gloucester County, New Jersey",1761,118,FALSE
+3401578110,"Wenonah borough, Gloucester County, New Jersey",NA,NA,NA
+3401578800,"West Deptford township, Gloucester County, New Jersey",1511,116,FALSE
+3401580120,"Westville borough, Gloucester County, New Jersey",1171,73,FALSE
+3401582120,"Woodbury city, Gloucester County, New Jersey",990,139,FALSE
+3401582180,"Woodbury Heights borough, Gloucester County, New Jersey",1325,138,FALSE
+3401582840,"Woolwich township, Gloucester County, New Jersey",1925,331,FALSE
+3401703580,"Bayonne city, Hudson County, New Jersey",1682,47,FALSE
+3401719360,"East Newark borough, Hudson County, New Jersey",1799,218,FALSE
+3401728650,"Guttenberg town, Hudson County, New Jersey",1677,71,FALSE
+3401730210,"Harrison town, Hudson County, New Jersey",2226,94,FALSE
+3401732250,"Hoboken city, Hudson County, New Jersey",2938,129,FALSE
+3401736000,"Jersey City city, Hudson County, New Jersey",2007,39,FALSE
+3401736510,"Kearny town, Hudson County, New Jersey",1720,39,FALSE
+3401752470,"North Bergen township, Hudson County, New Jersey",1781,70,FALSE
+3401766570,"Secaucus town, Hudson County, New Jersey",2391,224,FALSE
+3401774630,"Union City city, Hudson County, New Jersey",1537,48,FALSE
+3401777930,"Weehawken township, Hudson County, New Jersey",2500,313,FALSE
+3401779610,"West New York town, Hudson County, New Jersey",1716,56,FALSE
+3401900550,"Alexandria township, Hunterdon County, New Jersey",NA,NA,NA
+3401905650,"Bethlehem township, Hunterdon County, New Jersey",2047,355,FALSE
+3401906370,"Bloomsbury borough, Hunterdon County, New Jersey",1500,1165,FALSE
+3401909280,"Califon borough, Hunterdon County, New Jersey",1781,208,FALSE
+3401913720,"Clinton town, Hunterdon County, New Jersey",1881,186,FALSE
+3401913750,"Clinton township, Hunterdon County, New Jersey",2208,365,FALSE
+3401917170,"Delaware township, Hunterdon County, New Jersey",NA,NA,NA
+3401918820,"East Amwell township, Hunterdon County, New Jersey",1879,328,FALSE
+3401923700,"Flemington borough, Hunterdon County, New Jersey",1532,117,FALSE
+3401924870,"Franklin township, Hunterdon County, New Jersey",3500,NA,TRUE
+3401925350,"Frenchtown borough, Hunterdon County, New Jersey",1761,148,FALSE
+3401926550,"Glen Gardner borough, Hunterdon County, New Jersey",1890,242,FALSE
+3401929460,"Hampton borough, Hunterdon County, New Jersey",1125,611,FALSE
+3401931320,"High Bridge borough, Hunterdon County, New Jersey",1831,142,FALSE
+3401932460,"Holland township, Hunterdon County, New Jersey",1600,551,FALSE
+3401937065,"Kingwood township, Hunterdon County, New Jersey",1388,417,FALSE
+3401938610,"Lambertville city, Hunterdon County, New Jersey",1438,1372,FALSE
+3401939630,"Lebanon borough, Hunterdon County, New Jersey",2171,293,FALSE
+3401939660,"Lebanon township, Hunterdon County, New Jersey",1283,637,FALSE
+3401946260,"Milford borough, Hunterdon County, New Jersey",1523,322,FALSE
+3401961920,"Raritan township, Hunterdon County, New Jersey",1615,263,FALSE
+3401962250,"Readington township, Hunterdon County, New Jersey",1813,187,FALSE
+3401970980,"Stockton borough, Hunterdon County, New Jersey",1592,405,FALSE
+3401972510,"Tewksbury township, Hunterdon County, New Jersey",3500,NA,TRUE
+3401974420,"Union township, Hunterdon County, New Jersey",1625,250,FALSE
+3401978230,"West Amwell township, Hunterdon County, New Jersey",2217,313,FALSE
+3402119780,"East Windsor township, Mercer County, New Jersey",1626,68,FALSE
+3402122185,"Ewing township, Mercer County, New Jersey",1679,81,FALSE
+3402129310,"Hamilton township, Mercer County, New Jersey",1634,59,FALSE
+3402131620,"Hightstown borough, Mercer County, New Jersey",1606,158,FALSE
+3402133150,"Hopewell borough, Mercer County, New Jersey",1856,269,FALSE
+3402133180,"Hopewell township, Mercer County, New Jersey",2128,160,FALSE
+3402139510,"Lawrence township, Mercer County, New Jersey",2020,107,FALSE
+3402157600,"Pennington borough, Mercer County, New Jersey",1886,186,FALSE
+3402160900,"Princeton, Mercer County, New Jersey",2636,281,FALSE
+3402163850,"Robbinsville township, Mercer County, New Jersey",2076,176,FALSE
+3402174000,"Trenton city, Mercer County, New Jersey",1294,52,FALSE
+3402180240,"West Windsor township, Mercer County, New Jersey",2327,181,FALSE
+3402310750,"Carteret borough, Middlesex County, New Jersey",2032,148,FALSE
+3402315550,"Cranbury township, Middlesex County, New Jersey",1603,152,FALSE
+3402318490,"Dunellen borough, Middlesex County, New Jersey",1835,146,FALSE
+3402319000,"East Brunswick township, Middlesex County, New Jersey",2045,215,FALSE
+3402320230,"Edison township, Middlesex County, New Jersey",1974,50,FALSE
+3402330840,"Helmetta borough, Middlesex County, New Jersey",2144,86,FALSE
+3402331470,"Highland Park borough, Middlesex County, New Jersey",1873,84,FALSE
+3402334890,"Jamesburg borough, Middlesex County, New Jersey",1957,308,FALSE
+3402345690,"Metuchen borough, Middlesex County, New Jersey",2078,209,FALSE
+3402345900,"Middlesex borough, Middlesex County, New Jersey",1416,58,FALSE
+3402346620,"Milltown borough, Middlesex County, New Jersey",1204,519,FALSE
+3402347280,"Monroe township, Middlesex County, New Jersey",2031,182,FALSE
+3402351210,"New Brunswick city, Middlesex County, New Jersey",1814,56,FALSE
+3402352560,"North Brunswick township, Middlesex County, New Jersey",2117,76,FALSE
+3402354705,"Old Bridge township, Middlesex County, New Jersey",1538,82,FALSE
+3402358200,"Perth Amboy city, Middlesex County, New Jersey",1688,62,FALSE
+3402359010,"Piscataway township, Middlesex County, New Jersey",2024,109,FALSE
+3402359280,"Plainsboro township, Middlesex County, New Jersey",2037,83,FALSE
+3402365790,"Sayreville borough, Middlesex County, New Jersey",1711,56,FALSE
+3402368550,"South Amboy city, Middlesex County, New Jersey",1707,568,FALSE
+3402368790,"South Brunswick township, Middlesex County, New Jersey",1935,94,FALSE
+3402369390,"South Plainfield borough, Middlesex County, New Jersey",2107,144,FALSE
+3402369420,"South River borough, Middlesex County, New Jersey",1675,78,FALSE
+3402369810,"Spotswood borough, Middlesex County, New Jersey",1079,236,FALSE
+3402382000,"Woodbridge township, Middlesex County, New Jersey",1959,66,FALSE
+3402500070,"Aberdeen township, Monmouth County, New Jersey",1943,107,FALSE
+3402500730,"Allenhurst borough, Monmouth County, New Jersey",1602,205,FALSE
+3402500760,"Allentown borough, Monmouth County, New Jersey",1671,321,FALSE
+3402501960,"Asbury Park city, Monmouth County, New Jersey",1722,102,FALSE
+3402502110,"Atlantic Highlands borough, Monmouth County, New Jersey",1979,365,FALSE
+3402502440,"Avon-by-the-Sea borough, Monmouth County, New Jersey",2078,226,FALSE
+3402504930,"Belmar borough, Monmouth County, New Jersey",1744,180,FALSE
+3402506970,"Bradley Beach borough, Monmouth County, New Jersey",1790,86,FALSE
+3402507750,"Brielle borough, Monmouth County, New Jersey",2726,77,FALSE
+3402514560,"Colts Neck township, Monmouth County, New Jersey",2777,456,FALSE
+3402516660,"Deal borough, Monmouth County, New Jersey",1981,388,FALSE
+3402519840,"Eatontown borough, Monmouth County, New Jersey",1601,113,FALSE
+3402521570,"Englishtown borough, Monmouth County, New Jersey",2100,124,FALSE
+3402522440,"Fair Haven borough, Monmouth County, New Jersey",3492,612,FALSE
+3402522950,"Farmingdale borough, Monmouth County, New Jersey",1648,139,FALSE
+3402525200,"Freehold borough, Monmouth County, New Jersey",1832,128,FALSE
+3402525230,"Freehold township, Monmouth County, New Jersey",2194,184,FALSE
+3402530690,"Hazlet township, Monmouth County, New Jersey",1400,723,FALSE
+3402531500,"Highlands borough, Monmouth County, New Jersey",1658,216,FALSE
+3402532640,"Holmdel township, Monmouth County, New Jersey",2891,2100,FALSE
+3402533300,"Howell township, Monmouth County, New Jersey",2280,516,FALSE
+3402534200,"Interlaken borough, Monmouth County, New Jersey",2750,1033,FALSE
+3402536480,"Keansburg borough, Monmouth County, New Jersey",1679,105,FALSE
+3402536810,"Keyport borough, Monmouth County, New Jersey",1458,158,FALSE
+3402537560,"Lake Como borough, Monmouth County, New Jersey",1810,72,FALSE
+3402540770,"Little Silver borough, Monmouth County, New Jersey",3500,NA,TRUE
+3402541010,"Loch Arbour village, Monmouth County, New Jersey",NA,NA,NA
+3402541310,"Long Branch city, Monmouth County, New Jersey",1876,94,FALSE
+3402542990,"Manalapan township, Monmouth County, New Jersey",1960,195,FALSE
+3402543050,"Manasquan borough, Monmouth County, New Jersey",2030,279,FALSE
+3402544070,"Marlboro township, Monmouth County, New Jersey",2699,225,FALSE
+3402544520,"Matawan borough, Monmouth County, New Jersey",1824,176,FALSE
+3402545990,"Middletown township, Monmouth County, New Jersey",1532,161,FALSE
+3402546560,"Millstone township, Monmouth County, New Jersey",3500,NA,TRUE
+3402547130,"Monmouth Beach borough, Monmouth County, New Jersey",2257,66,FALSE
+3402549890,"Neptune township, Monmouth County, New Jersey",1876,217,FALSE
+3402549920,"Neptune City borough, Monmouth County, New Jersey",1526,691,FALSE
+3402554270,"Ocean township, Monmouth County, New Jersey",1530,96,FALSE
+3402554570,"Oceanport borough, Monmouth County, New Jersey",1608,274,FALSE
+3402562430,"Red Bank borough, Monmouth County, New Jersey",2026,212,FALSE
+3402564410,"Roosevelt borough, Monmouth County, New Jersey",2507,2078,FALSE
+3402565130,"Rumson borough, Monmouth County, New Jersey",3500,NA,TRUE
+3402566240,"Sea Bright borough, Monmouth County, New Jersey",2481,368,FALSE
+3402566330,"Sea Girt borough, Monmouth County, New Jersey",3455,453,FALSE
+3402567350,"Shrewsbury borough, Monmouth County, New Jersey",3472,1644,FALSE
+3402567365,"Shrewsbury township, Monmouth County, New Jersey",1856,201,FALSE
+3402570110,"Spring Lake borough, Monmouth County, New Jersey",2175,617,FALSE
+3402570140,"Spring Lake Heights borough, Monmouth County, New Jersey",1863,93,FALSE
+3402573020,"Tinton Falls borough, Monmouth County, New Jersey",1746,562,FALSE
+3402574540,"Union Beach borough, Monmouth County, New Jersey",2567,708,FALSE
+3402574900,"Upper Freehold township, Monmouth County, New Jersey",1314,157,FALSE
+3402576460,"Wall township, Monmouth County, New Jersey",1762,163,FALSE
+3402579310,"West Long Branch borough, Monmouth County, New Jersey",1970,513,FALSE
+3402706610,"Boonton town, Morris County, New Jersey",1849,115,FALSE
+3402706640,"Boonton township, Morris County, New Jersey",1870,547,FALSE
+3402709040,"Butler borough, Morris County, New Jersey",1599,133,FALSE
+3402712100,"Chatham borough, Morris County, New Jersey",2250,139,FALSE
+3402712130,"Chatham township, Morris County, New Jersey",2769,144,FALSE
+3402712580,"Chester borough, Morris County, New Jersey",1344,675,FALSE
+3402712610,"Chester township, Morris County, New Jersey",2787,892,FALSE
+3402717650,"Denville township, Morris County, New Jersey",1817,577,FALSE
+3402718070,"Dover town, Morris County, New Jersey",1825,163,FALSE
+3402719210,"East Hanover township, Morris County, New Jersey",2711,392,FALSE
+3402723910,"Florham Park borough, Morris County, New Jersey",3109,364,FALSE
+3402729550,"Hanover township, Morris County, New Jersey",2813,227,FALSE
+3402729700,"Harding township, Morris County, New Jersey",2917,2565,FALSE
+3402734980,"Jefferson township, Morris County, New Jersey",1480,231,FALSE
+3402737110,"Kinnelon borough, Morris County, New Jersey",2282,277,FALSE
+3402740290,"Lincoln Park borough, Morris County, New Jersey",1857,107,FALSE
+3402741362,"Long Hill township, Morris County, New Jersey",2329,1480,FALSE
+3402742510,"Madison borough, Morris County, New Jersey",2253,120,FALSE
+3402745330,"Mendham borough, Morris County, New Jersey",3500,NA,TRUE
+3402745360,"Mendham township, Morris County, New Jersey",3500,NA,TRUE
+3402746860,"Mine Hill township, Morris County, New Jersey",1771,193,FALSE
+3402747670,"Montville township, Morris County, New Jersey",2372,202,FALSE
+3402748090,"Morris township, Morris County, New Jersey",2437,210,FALSE
+3402748210,"Morris Plains borough, Morris County, New Jersey",2835,203,FALSE
+3402748300,"Morristown town, Morris County, New Jersey",2274,125,FALSE
+3402748480,"Mountain Lakes borough, Morris County, New Jersey",3500,NA,TRUE
+3402748690,"Mount Arlington borough, Morris County, New Jersey",2392,197,FALSE
+3402749080,"Mount Olive township, Morris County, New Jersey",1697,65,FALSE
+3402750130,"Netcong borough, Morris County, New Jersey",1432,67,FALSE
+3402756460,"Parsippany-Troy Hills township, Morris County, New Jersey",1736,42,FALSE
+3402758110,"Pequannock township, Morris County, New Jersey",2753,829,FALSE
+3402761890,"Randolph township, Morris County, New Jersey",1808,77,FALSE
+3402763300,"Riverdale borough, Morris County, New Jersey",2424,329,FALSE
+3402764050,"Rockaway borough, Morris County, New Jersey",1587,335,FALSE
+3402764080,"Rockaway township, Morris County, New Jersey",2315,379,FALSE
+3402764980,"Roxbury township, Morris County, New Jersey",1983,198,FALSE
+3402775890,"Victory Gardens borough, Morris County, New Jersey",1518,121,FALSE
+3402777240,"Washington township, Morris County, New Jersey",1701,197,FALSE
+3402780390,"Wharton borough, Morris County, New Jersey",1720,124,FALSE
+3402903050,"Barnegat township, Ocean County, New Jersey",1752,264,FALSE
+3402903130,"Barnegat Light borough, Ocean County, New Jersey",NA,NA,NA
+3402903520,"Bay Head borough, Ocean County, New Jersey",1424,217,FALSE
+3402903940,"Beach Haven borough, Ocean County, New Jersey",2071,300,FALSE
+3402904180,"Beachwood borough, Ocean County, New Jersey",2335,172,FALSE
+3402905305,"Berkeley township, Ocean County, New Jersey",1683,67,FALSE
+3402907420,"Brick township, Ocean County, New Jersey",1756,59,FALSE
+3402918670,"Eagleswood township, Ocean County, New Jersey",1363,399,FALSE
+3402930390,"Harvey Cedars borough, Ocean County, New Jersey",NA,NA,NA
+3402934530,"Island Heights borough, Ocean County, New Jersey",1750,269,FALSE
+3402934680,"Jackson township, Ocean County, New Jersey",1908,153,FALSE
+3402937380,"Lacey township, Ocean County, New Jersey",1971,290,FALSE
+3402937770,"Lakehurst borough, Ocean County, New Jersey",1742,387,FALSE
+3402938550,"Lakewood township, Ocean County, New Jersey",1774,64,FALSE
+3402939390,"Lavallette borough, Ocean County, New Jersey",2793,2013,FALSE
+3402940560,"Little Egg Harbor township, Ocean County, New Jersey",1823,91,FALSE
+3402941250,"Long Beach township, Ocean County, New Jersey",2057,481,FALSE
+3402943140,"Manchester township, Ocean County, New Jersey",1477,140,FALSE
+3402943380,"Mantoloking borough, Ocean County, New Jersey",NA,NA,NA
+3402954300,"Ocean township, Ocean County, New Jersey",1217,718,FALSE
+3402954450,"Ocean Gate borough, Ocean County, New Jersey",1604,710,FALSE
+3402958590,"Pine Beach borough, Ocean County, New Jersey",1563,660,FALSE
+3402959790,"Plumsted township, Ocean County, New Jersey",1707,578,FALSE
+3402959880,"Point Pleasant borough, Ocean County, New Jersey",1930,171,FALSE
+3402959910,"Point Pleasant Beach borough, Ocean County, New Jersey",1820,164,FALSE
+3402966450,"Seaside Heights borough, Ocean County, New Jersey",1480,179,FALSE
+3402966480,"Seaside Park borough, Ocean County, New Jersey",1660,179,FALSE
+3402967110,"Ship Bottom borough, Ocean County, New Jersey",1455,216,FALSE
+3402969510,"South Toms River borough, Ocean County, New Jersey",2063,235,FALSE
+3402970320,"Stafford township, Ocean County, New Jersey",1800,159,FALSE
+3402971640,"Surf City borough, Ocean County, New Jersey",2056,795,FALSE
+3402973125,"Toms River township, Ocean County, New Jersey",1726,74,FALSE
+3402974210,"Tuckerton borough, Ocean County, New Jersey",2024,271,FALSE
+3403106340,"Bloomingdale borough, Passaic County, New Jersey",1753,81,FALSE
+3403113690,"Clifton city, Passaic County, New Jersey",1711,53,FALSE
+3403129070,"Haledon borough, Passaic County, New Jersey",1750,143,FALSE
+3403130570,"Hawthorne borough, Passaic County, New Jersey",1830,69,FALSE
+3403140620,"Little Falls township, Passaic County, New Jersey",1843,120,FALSE
+3403153040,"North Haledon borough, Passaic County, New Jersey",2369,582,FALSE
+3403156550,"Passaic city, Passaic County, New Jersey",1465,40,FALSE
+3403157000,"Paterson city, Passaic County, New Jersey",1548,25,FALSE
+3403160090,"Pompton Lakes borough, Passaic County, New Jersey",1845,189,FALSE
+3403161170,"Prospect Park borough, Passaic County, New Jersey",1647,165,FALSE
+3403163150,"Ringwood borough, Passaic County, New Jersey",1750,1271,FALSE
+3403173140,"Totowa borough, Passaic County, New Jersey",2072,597,FALSE
+3403176730,"Wanaque borough, Passaic County, New Jersey",1778,248,FALSE
+3403177840,"Wayne township, Passaic County, New Jersey",2164,86,FALSE
+3403179460,"West Milford township, Passaic County, New Jersey",1737,198,FALSE
+3403182423,"Woodland Park borough, Passaic County, New Jersey",1839,82,FALSE
+3403300880,"Alloway township, Salem County, New Jersey",749,61,FALSE
+3403310610,"Carneys Point township, Salem County, New Jersey",1432,79,FALSE
+3403321240,"Elmer borough, Salem County, New Jersey",1741,176,FALSE
+3403321330,"Elsinboro township, Salem County, New Jersey",1531,207,FALSE
+3403341640,"Lower Alloways Creek township, Salem County, New Jersey",1189,330,FALSE
+3403343200,"Mannington township, Salem County, New Jersey",1206,140,FALSE
+3403354810,"Oldmans township, Salem County, New Jersey",1806,243,FALSE
+3403357750,"Penns Grove borough, Salem County, New Jersey",1117,363,FALSE
+3403357870,"Pennsville township, Salem County, New Jersey",1252,112,FALSE
+3403358530,"Pilesgrove township, Salem County, New Jersey",1450,632,FALSE
+3403359130,"Pittsgrove township, Salem County, New Jersey",1190,332,FALSE
+3403361470,"Quinton township, Salem County, New Jersey",1296,163,FALSE
+3403365490,"Salem city, Salem County, New Jersey",1075,112,FALSE
+3403375110,"Upper Pittsgrove township, Salem County, New Jersey",1520,248,FALSE
+3403382720,"Woodstown borough, Salem County, New Jersey",1359,226,FALSE
+3403504450,"Bedminster township, Somerset County, New Jersey",2294,229,FALSE
+3403505560,"Bernards township, Somerset County, New Jersey",2476,212,FALSE
+3403505590,"Bernardsville borough, Somerset County, New Jersey",2297,315,FALSE
+3403506790,"Bound Brook borough, Somerset County, New Jersey",1973,112,FALSE
+3403507180,"Branchburg township, Somerset County, New Jersey",2268,138,FALSE
+3403507720,"Bridgewater township, Somerset County, New Jersey",2176,127,FALSE
+3403522890,"Far Hills borough, Somerset County, New Jersey",1554,298,FALSE
+3403524900,"Franklin township, Somerset County, New Jersey",2115,94,FALSE
+3403527510,"Green Brook township, Somerset County, New Jersey",2115,336,FALSE
+3403531890,"Hillsborough township, Somerset County, New Jersey",2396,273,FALSE
+3403543620,"Manville borough, Somerset County, New Jersey",1844,173,FALSE
+3403546590,"Millstone borough, Somerset County, New Jersey",1375,856,FALSE
+3403547580,"Montgomery township, Somerset County, New Jersey",2188,372,FALSE
+3403553280,"North Plainfield borough, Somerset County, New Jersey",1752,75,FALSE
+3403557300,"Peapack and Gladstone borough, Somerset County, New Jersey",1820,157,FALSE
+3403561980,"Raritan borough, Somerset County, New Jersey",2112,197,FALSE
+3403564320,"Rocky Hill borough, Somerset County, New Jersey",1799,93,FALSE
+3403568460,"Somerville borough, Somerset County, New Jersey",1802,49,FALSE
+3403568730,"South Bound Brook borough, Somerset County, New Jersey",1778,179,FALSE
+3403576940,"Warren township, Somerset County, New Jersey",2170,252,FALSE
+3403577600,"Watchung borough, Somerset County, New Jersey",2738,602,FALSE
+3403701330,"Andover borough, Sussex County, New Jersey",1597,213,FALSE
+3403701360,"Andover township, Sussex County, New Jersey",1636,160,FALSE
+3403707300,"Branchville borough, Sussex County, New Jersey",1750,1002,FALSE
+3403709160,"Byram township, Sussex County, New Jersey",1561,208,FALSE
+3403724810,"Frankford township, Sussex County, New Jersey",1672,271,FALSE
+3403724930,"Franklin borough, Sussex County, New Jersey",1381,62,FALSE
+3403725140,"Fredon township, Sussex County, New Jersey",1205,459,FALSE
+3403727420,"Green township, Sussex County, New Jersey",1648,1164,FALSE
+3403729220,"Hamburg borough, Sussex County, New Jersey",1685,174,FALSE
+3403729490,"Hampton township, Sussex County, New Jersey",1680,172,FALSE
+3403729850,"Hardyston township, Sussex County, New Jersey",2097,276,FALSE
+3403732910,"Hopatcong borough, Sussex County, New Jersey",1777,251,FALSE
+3403737440,"Lafayette township, Sussex County, New Jersey",1891,242,FALSE
+3403747430,"Montague township, Sussex County, New Jersey",1260,730,FALSE
+3403751930,"Newton town, Sussex County, New Jersey",1442,136,FALSE
+3403754660,"Ogdensburg borough, Sussex County, New Jersey",1445,210,FALSE
+3403765700,"Sandyston township, Sussex County, New Jersey",1750,120,FALSE
+3403769690,"Sparta township, Sussex County, New Jersey",1864,265,FALSE
+3403770380,"Stanhope borough, Sussex County, New Jersey",1964,326,FALSE
+3403770890,"Stillwater township, Sussex County, New Jersey",1238,531,FALSE
+3403771670,"Sussex borough, Sussex County, New Jersey",1418,66,FALSE
+3403775740,"Vernon township, Sussex County, New Jersey",1773,230,FALSE
+3403776640,"Walpack township, Sussex County, New Jersey",NA,NA,NA
+3403776790,"Wantage township, Sussex County, New Jersey",1437,199,FALSE
+3403905320,"Berkeley Heights township, Union County, New Jersey",2203,257,FALSE
+3403913150,"Clark township, Union County, New Jersey",1743,59,FALSE
+3403915640,"Cranford township, Union County, New Jersey",2199,255,FALSE
+3403921000,"Elizabeth city, Union County, New Jersey",1523,42,FALSE
+3403922860,"Fanwood borough, Union County, New Jersey",2446,736,FALSE
+3403925800,"Garwood borough, Union County, New Jersey",1753,224,FALSE
+3403931980,"Hillside township, Union County, New Jersey",1794,108,FALSE
+3403936690,"Kenilworth borough, Union County, New Jersey",2023,263,FALSE
+3403940350,"Linden city, Union County, New Jersey",1731,71,FALSE
+3403948510,"Mountainside borough, Union County, New Jersey",3500,NA,TRUE
+3403951810,"New Providence borough, Union County, New Jersey",1903,119,FALSE
+3403959190,"Plainfield city, Union County, New Jersey",1767,49,FALSE
+3403961530,"Rahway city, Union County, New Jersey",1845,142,FALSE
+3403964620,"Roselle borough, Union County, New Jersey",1567,202,FALSE
+3403964650,"Roselle Park borough, Union County, New Jersey",1663,74,FALSE
+3403966060,"Scotch Plains township, Union County, New Jersey",2060,301,FALSE
+3403970020,"Springfield township, Union County, New Jersey",2188,153,FALSE
+3403971430,"Summit city, Union County, New Jersey",2430,210,FALSE
+3403974480,"Union township, Union County, New Jersey",2064,98,FALSE
+3403979040,"Westfield town, Union County, New Jersey",2357,209,FALSE
+3403981650,"Winfield township, Union County, New Jersey",1111,20,FALSE
+3404100670,"Allamuchy township, Warren County, New Jersey",1929,362,FALSE
+3404101030,"Alpha borough, Warren County, New Jersey",1362,104,FALSE
+3404104990,"Belvidere town, Warren County, New Jersey",1008,164,FALSE
+3404106160,"Blairstown township, Warren County, New Jersey",1694,741,FALSE
+3404124960,"Franklin township, Warren County, New Jersey",1438,354,FALSE
+3404125320,"Frelinghuysen township, Warren County, New Jersey",1683,237,FALSE
+3404128260,"Greenwich township, Warren County, New Jersey",2411,1138,FALSE
+3404128710,"Hackettstown town, Warren County, New Jersey",1469,76,FALSE
+3404129820,"Hardwick township, Warren County, New Jersey",1818,163,FALSE
+3404130090,"Harmony township, Warren County, New Jersey",1719,104,FALSE
+3404133060,"Hope township, Warren County, New Jersey",1355,240,FALSE
+3404133930,"Independence township, Warren County, New Jersey",1603,408,FALSE
+3404137320,"Knowlton township, Warren County, New Jersey",1833,295,FALSE
+3404140110,"Liberty township, Warren County, New Jersey",1695,255,FALSE
+3404141490,"Lopatcong township, Warren County, New Jersey",1582,178,FALSE
+3404143320,"Mansfield township, Warren County, New Jersey",1438,51,FALSE
+3404155530,"Oxford township, Warren County, New Jersey",1635,689,FALSE
+3404158350,"Phillipsburg town, Warren County, New Jersey",1167,117,FALSE
+3404159820,"Pohatcong township, Warren County, New Jersey",1793,782,FALSE
+3404177270,"Washington borough, Warren County, New Jersey",1348,103,FALSE
+3404177300,"Washington township, Warren County, New Jersey",2141,258,FALSE
+3404180570,"White township, Warren County, New Jersey",907,286,FALSE

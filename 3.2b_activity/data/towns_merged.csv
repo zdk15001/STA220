@@ -1,0 +1,20 @@
+town,geo_id,district_code,name,median_rent,rent_moe,rent_top_coded,district,district_county,math_ready,ela_ready
+Ewing township,3402122185,1430,"Ewing township, Mercer County, New Jersey",1679,81,FALSE,Ewing Township School District,Mercer,42,64.8
+Lawrence township,3402139510,2580,"Lawrence township, Mercer County, New Jersey",2020,107,FALSE,Lawrence Township Public School District,Mercer,57.2,87
+Hamilton township,3402129310,1950,"Hamilton township, Mercer County, New Jersey",1634,59,FALSE,Hamilton Township Public School District,Mercer,38.5,68.7
+Hopewell township,3402133180,2280,"Hopewell township, Mercer County, New Jersey",2128,160,FALSE,Hopewell Valley Regional School District,Mercer,85.9,93
+Trenton city,3402174000,5210,"Trenton city, Mercer County, New Jersey",1294,52,FALSE,Trenton Public School District,Mercer,11.7,32.1
+Princeton,3402160900,4255,"Princeton, Mercer County, New Jersey",2636,281,FALSE,Princeton Public School District,Mercer,83.7,92.1
+Hightstown borough,3402131620,1245,"Hightstown borough, Mercer County, New Jersey",1606,158,FALSE,East Windsor Regional School District,Mercer,56.1,80.2
+Robbinsville township,3402163850,5510,"Robbinsville township, Mercer County, New Jersey",2076,176,FALSE,Robbinsville Public School District,Mercer,80.3,91.2
+West Windsor township,3402180240,5715,"West Windsor township, Mercer County, New Jersey",2327,181,FALSE,West Windsor-Plainsboro Regional School District,Mercer,88.9,96.5
+East Windsor township,3402119780,1245,"East Windsor township, Mercer County, New Jersey",1626,68,FALSE,East Windsor Regional School District,Mercer,56.1,80.2
+Bordentown township,3400506700,0475,"Bordentown township, Burlington County, New Jersey",1730,176,FALSE,Bordentown Regional School District,Burlington,66.2,81.6
+Florence township,3400523850,1520,"Florence township, Burlington County, New Jersey",1407,82,FALSE,Florence Township School District,Burlington,59,80
+Burlington township,3400508950,0620,"Burlington township, Burlington County, New Jersey",1326,68,FALSE,Burlington Township School District,Burlington,63.8,84
+Chesterfield township,3400512670,3690,"Chesterfield township, Burlington County, New Jersey",2500,769,FALSE,Northern Burlington County Regional School District,Burlington,73.9,88
+Mansfield township,3400543290,3690,"Mansfield township, Burlington County, New Jersey",2213,554,FALSE,Northern Burlington County Regional School District,Burlington,73.9,88
+Plainsboro township,3402359280,5715,"Plainsboro township, Middlesex County, New Jersey",2037,83,FALSE,West Windsor-Plainsboro Regional School District,Mercer,88.9,96.5
+South Brunswick township,3402368790,4860,"South Brunswick township, Middlesex County, New Jersey",1935,94,FALSE,South Brunswick School District,Middlesex,81.2,89.2
+Montgomery township,3403547580,3320,"Montgomery township, Somerset County, New Jersey",2188,372,FALSE,Montgomery Township School District,Somerset,92,95.5
+Hillsborough township,3403531890,2170,"Hillsborough township, Somerset County, New Jersey",2396,273,FALSE,Hillsborough Township Public School District,Somerset,83.6,94.1
