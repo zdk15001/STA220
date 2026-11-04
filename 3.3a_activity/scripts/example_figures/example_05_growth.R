@@ -38,7 +38,7 @@ fig_05 <- ggplot(growth, aes(x = pct_change, y = fct_reorder(section, pct_change
   geom_col(fill = "grey75") +
   geom_col(data = mine, fill = "#1baf7a") +
   labs(
-    title = "Traffic grew eight times as fast on Cedar Interchange",
+    title = "Traffic grew eight times as fast on Cedar Interchange\nas on any other section",
     subtitle = "Percent change in average vehicles per day, 2016 to 2025",
     x = "Percent change since 2016",
     y = NULL,

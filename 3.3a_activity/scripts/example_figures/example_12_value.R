@@ -57,7 +57,7 @@ fig_12 <- ggplot(value, aes(x = hours_per_million, y = fct_reorder(section, hour
   geom_col(data = mine, fill = "#eda100") +
   scale_x_continuous(labels = scales::comma) +
   labs(
-    title = "Birch Straightaway takes on the most rush-hour delay per dollar",
+    title = "A dollar goes furthest against rush hour on Birch Straightaway",
     subtitle = "Hours lost to rush hour in a year, for each $1 million it would cost to add a lane",
     x = "Hours of delay per $1 million",
     y = NULL,

@@ -39,6 +39,10 @@ crashes_5yr
 # The two numbers become two rows per section: one for each panel
 crashes_long <- crashes_5yr |>
   select(section, count_2021_to_2025, rate_per_100m_miles) |>
+  rename(
+    "Count: crashes, 2021 to 2025" = count_2021_to_2025,
+    "Rate: crashes per 100 million miles" = rate_per_100m_miles
+  ) |>
   pivot_longer(-section, names_to = "measure", values_to = "value")
 
 # Expect 8 rows: 4 sections x 2 measures

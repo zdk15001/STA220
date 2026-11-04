@@ -83,7 +83,7 @@ corners <- bind_rows(
 
 pine_towns <- make_shapes(corners, "POLYGON") |>
   left_join(towns, by = "name") |>
-  select(town_code, town, pop, sq_miles, label_x, label_y)
+  select(town_code, town, pop, sq_miles)
 
 
 # The Bike Lane: Four Streets --------------------------------------------------------------------
@@ -109,7 +109,7 @@ bike_corridors <- make_shapes(bike_points, "LINESTRING") |>
   rename(corridor = name) |>
   mutate(miles = round(as.numeric(st_length(geometry)), 2)) |>
   left_join(bike_facts, by = "corridor") |>
-  select(corridor, towns, miles, cost_million, parking_lost, trees_removed, years_to_build, connects_to, counted_since, label_x, label_y)
+  select(corridor, towns, miles, cost_million, parking_lost, trees_removed, years_to_build, connects_to, counted_since)
 
 
 # The Bike Lane: Each Month, 2023 to 2025 --------------------------------------------------------
@@ -266,7 +266,7 @@ highway_sections <- make_shapes(highway_points, "LINESTRING") |>
   rename(section = name) |>
   mutate(miles = round(as.numeric(st_length(geometry)), 2)) |>
   left_join(highway_facts, by = "section") |>
-  select(section, exits, towns, miles, cost_million, homes_affected, wetland_acres, years_to_build, label_x, label_y)
+  select(section, exits, towns, miles, cost_million, homes_affected, wetland_acres, years_to_build)
 
 
 # The Highway Lane: Each Year, 2016 to 2025 ------------------------------------------------------

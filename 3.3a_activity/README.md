@@ -7,12 +7,11 @@ Data for Everyday Life: Data Ethics, Management, and Visualization. The College 
 
 ## For students
 
-**The handout.** Follow `kline(2026_11_02)STA220-3.3a_activity_handout.docx` (print it; there is
-room to write on every page). It has the same steps as below, plus the table we fill in together
-during the class walkthrough.
+**The handout.** Follow the Activity 3.3a handout (print it; there is
+room to write on every page). It has the steps and the times.
 
 **Getting the files.** In GitHub Desktop, click **Fetch origin**, then **Pull origin**; this folder
-appears next to `3.3`. Then double-click `sta220-activity_3.3a.Rproj`. You need the tidyverse and
+appears next to `3.3`. Then double-click `3.3a_activity.Rproj`. You need the tidyverse and
 sf, which you installed for 3.3. You do not need the internet.
 
 **Your street.**
@@ -24,29 +23,15 @@ sf, which you installed for 3.3. You do not need the internet.
 | 3 | College Avenue | Elm, past Pine County College |
 | 4 | Station Road | Dogwood, to the train station |
 
-**Part 1 (on your own or with a partner, about 5 minutes).** Each student or pair gets one of the
-thirteen example figures. They all use the same highway data, but each one makes a different section of
-the highway look like the best place for a new lane. Run your example (or open its picture in
-`output/figures/`) and write what it emphasizes: which section it makes look best, how, and what it
-leaves out (handout page 2). Then everyone shares, and you take notes on the rest (handout page 3).
+**Running the R parts.**
 
-**Part 2: the activity (20 minutes).**
-
-1. **As a group (about 3 minutes):** talk about your street.
-   - A) What are some things we want to highlight for the decision maker?
-   - B) What are some things we do not want to highlight for the decision maker?
-2. **As a group (about 5 minutes):** using your notes from Part 1, run the examples that could help
-   your case (open one, then Ctrl+Shift+Enter or Cmd+Shift+Return to run all of it). Pick at least
-   one for each person in your group.
-3. **On your own (about 6 minutes):** open `scripts/create_your_visualization_here.R`, set
-   `my_corridor` to your street, and run it to load the bike data. Copy your example under
-   **Your Figure** and change it to fit your street. The key in that script says what to swap
-   (`section` becomes `corridor`, `vehicles_per_day` becomes `bikes_per_day`, and so on). Change the
-   title to your argument.
-4. **As a group (about 3 minutes):** compare what you made and decide which figure is best for your
-   purpose.
-5. **As a group (about 3 minutes):** prepare a one-minute share: how will you argue your point to
-   the decision maker with that figure?
+1. Open an example in `scripts/example_figures/` and run all of it (Ctrl+Shift+Enter, or
+   Cmd+Shift+Return on a Mac), or open its picture in `output/figures/`.
+2. Open `scripts/create_your_visualization_here.R`, set `my_corridor` to your street, and run it
+   to load the bike data.
+3. Copy your example under **Your Figure** and change it to fit your street. The Key in that script
+   says what to swap (`section` becomes `corridor`, `vehicles_per_day` becomes `bikes_per_day`, and
+   so on). Change the title to your argument.
 
 ## The thirteen examples
 
@@ -71,7 +56,7 @@ Example 3.
 | 12 | `example_12_value.R` | Hours of delay per $1 million | three tables into one number with two `left_join()`s | Birch Straightaway | Elm has by far the most delay, and whether a lane removes delay at all |
 | 13 | `example_13_town_rate_map.R` | **Map:** towns shaded by crashes per 1,000 residents | `count()` by town, a rate, a shaded town map | Dogwood Curve (Dogwood is the darkest town) | Most Parkway drivers do not live in the town they crash in; Fir is a small town, so a few crashes make a big rate; grey Alder means no Parkway, not no data |
 
-`output/example_figures_all.pdf` has all thirteen, one per page, for handing out in Part 1 or sharing on the screen.
+`output/example_figures_all.pdf` has all thirteen, one per page, for handing out or sharing on the screen.
 
 ## Where did the data come from?
 
@@ -84,7 +69,7 @@ numbers every time. You do not need to run it; everything it writes is already i
 |---|---|---|
 | `pine_towns.gpkg` | a town (a rectangle): population and square miles | both |
 | `bike_corridors.gpkg` | a street (a line): miles, cost, parking lost, trees removed, years to build, what it connects to | your figure |
-| `bike_yearly.csv` | a street in a year, 2023 to 2025: riders and cars per day, crashes, serious crashes | your figure |
+| `bike_yearly.csv` | a street in a year, 2023 to 2025: months with a rider count, riders and cars per day, crashes, serious crashes | your figure |
 | `bike_monthly.csv` | a street in a month, January 2023 to December 2025 | your figure |
 | `bike_hourly.csv` | a street in an hour of an average weekday in 2025: riders per hour, car speed, speed limit | your figure |
 | `bike_crashes.gpkg` | a crash involving a bike, 2023 to 2025 (a point): severity, type, town, and its x and y in miles | your figure |
@@ -105,9 +90,8 @@ Two things to notice, because real data have them too:
 
 ```
 3.3a_activity/
-  sta220-activity_3.3a.Rproj              # double-click to open the project
+  3.3a_activity.Rproj                     # double-click to open the project
   README.md                               # this file
-  kline(2026_11_02)STA220-3.3a_activity_handout.docx   # the handout (print it)
   data/                                   # made by 01_make_data.R (all made up)
   scripts/
     create_your_visualization_here.R      # YOURS: loads the bike data, then a blank space for your figure
@@ -123,4 +107,4 @@ Two things to notice, because real data have them too:
 ## Who made it, and when
 
 Zachary D. Kline, The College of New Jersey, with help from Claude (Anthropic). Last updated
-November 2, 2026. Tested with R 4.3.3, tidyverse 2.0.0 (ggplot2 3.4.4), and sf 1.0.15.
+November 3, 2026. Tested with R 4.3.3, tidyverse 2.0.0 (ggplot2 3.4.4), and sf 1.0.15.

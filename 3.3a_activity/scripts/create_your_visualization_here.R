@@ -22,15 +22,21 @@ corridor_colours <- c(
   "Station Road"   = "#eda100"
 )
 
-# The six towns of Pine County (a map background)
+# One colour per severity, darker red is more severe (Example 9 uses these)
+severity_colours <- c(
+  "serious or fatal" = "#a50f15",
+  "injury"           = "#fb6a4a",
+  "no injury"        = "#fcbba1"
+)
+
+# The six towns of Pine County (a map background). One row is one town. Expect 6 rows and 5 columns
 pine_towns <- read_sf("data/pine_towns.gpkg")
 
-# One row is one town. Expect 6 rows and 7 columns
 dim(pine_towns)
 names(pine_towns)
 summary(pine_towns)
 
-# One row is one street, with its shape (a line). Expect 4 rows and 12 columns
+# One row is one street, with its shape (a line). Expect 4 rows and 10 columns
 bike_corridors <- read_sf("data/bike_corridors.gpkg")
 
 dim(bike_corridors)
@@ -69,9 +75,7 @@ names(bike_crashes)
 summary(bike_crashes)
 
 
-#  The Key (Use this to compare Highway to Bikes! -------------------------
-
-
+# The Key (Use this to compare Highway to Bikes!) ------------------------------------------------
 
 #   In the examples                        In your data
 #   highway_sections (one line each)       bike_corridors
@@ -90,11 +94,13 @@ summary(bike_crashes)
 #   cost_million, years_to_build           cost_million, years_to_build
 #   homes_affected, wetland_acres          parking_lost, trees_removed
 #   miles                                  miles
-#   (not in the highway data)              connects_to, counted_since
+#   (not in the highway data)              connects_to, counted_since, months_counted
 #
 #   Examples 5 and 11: names_prefix = "vehicles_" makes vehicles_2016 to vehicles_2025. Yours can be
 #   names_prefix = "bikes_", which makes bikes_2023 to bikes_2025. Station Road has no 2023 count,
-#   so its 2023 to 2025 change is NA: use 2024 to 2025, or say on the figure why it is missing.
+#   so its 2023 to 2025 change is NA, and both examples stop with an error. Use 2024 to 2025
+#   (bikes_2024 in place of bikes_2023), or add filter(!is.na(pct_change)) to the end of growth
+#   (Example 5) or sections_growth (Example 11) and say on the figure why Station Road is missing.
 #
 #   Examples 5, 10, and 12 draw my_section again on top (the table called mine) in its own colour.
 #   Use filter(corridor == my_corridor), and your street's colour from corridor_colours above.
@@ -105,22 +111,22 @@ summary(bike_crashes)
 #   Remember to change the title, the axis labels, and the caption to fit your figure and your argument.
 
 
-# Hints -------------------------------------------------------------------
-# Hints
+# Hints ------------------------------------------------------------------------------------------
 #   1. Check that you loaded the data by running the script above!
-#   2. Highlight a word and other matching will e highlighted. 
+#   2. Highlight a word and other matching words will be highlighted.
 #   3. Run your code one step at a time (or one pipe at a time)
-#   5. A few examples need some hints:
+#   4. A few examples need some hints:
 #        Example 3    the streets are short, so try binwidth = 0.25
 #        Example 7    use the bike rate in The Key (crashes per 100,000 bike trips)
 #        Example 8    there is no bike speed: use car_speed_mph (keep geom_hline()), or
 #                     bikes_per_hour (and delete the geom_hline() line)
-#        Example 9    for Market Street, try fill = crash_type in place of severity
+#        Example 9    for Market Street, try fill = crash_type in place of severity, and delete
+#                     the scale_fill_manual() line (its colours only name the severity levels)
 #        Example 12   there is no rush-hour delay for bikes: divide something else by
 #                     cost_million (riders per $1 million, or crashes per $1 million)
 #        Example 13   the hardest one: count(town) works on bike_crashes too, and Cedar and Fir
 #                     (none of the four streets) come out grey
-#   8. To show your figure to the class, click Zoom above the plot (or Export > Save as Image).
+#   5. To show your figure to the class, click Zoom above the plot (or Export > Save as Image).
 
 
 # Your Figure ------------------------------------------------------------------------------------
