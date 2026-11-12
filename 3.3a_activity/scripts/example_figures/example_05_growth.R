@@ -14,6 +14,21 @@ highway_yearly <- read_csv("data/highway_yearly.csv")     # one row per section 
 my_section <- "Cedar Interchange"          # the section this figure argues for
 
 
+# COPY FROM HERE (down to STOP HERE) -------------------------------------------------------------
+
+# For the bike data, change:
+#   highway_yearly    to  bike_yearly
+#   my_section        to  my_corridor
+#   section           to  corridor
+#   vehicles_per_day  to  bikes_per_day
+#   "vehicles_"       to  "bikes_"
+#   vehicles_2025     to  bikes_2025
+#   vehicles_2016     to  bikes_2024   (not bikes_2023: Station Road has no 2023 rider count, so
+#                                       its change would be NA and the figure stops with an error)
+#   "#1baf7a"         to  your street's colour (the codes are at the top of your script)
+#   Then change the words in labs() to fit your argument: title, subtitle, and x.
+
+
 # Percent Change ---------------------------------------------------------------------------------
 
 # names_prefix puts a word in front of each year, so the new columns are vehicles_2016 to
@@ -47,5 +62,9 @@ fig_05 <- ggplot(growth, aes(x = pct_change, y = fct_reorder(section, pct_change
   theme_minimal()
 
 fig_05
+
+
+# STOP HERE --------------------------------------------------------------------------------------
+# Do not copy the line below! It saves the example's picture, and yours would replace it.
 
 ggsave("output/figures/example_05_growth.png", fig_05, width = 7, height = 4.5, bg = "white")

@@ -19,6 +19,25 @@ highway_hourly <- read_csv("data/highway_hourly.csv")
 my_section <- "Birch Straightaway"          # the section this figure argues for
 
 
+# COPY FROM HERE (down to STOP HERE) -------------------------------------------------------------
+
+# For the bike data, this one takes more than swaps! Bikes have no rush-hour delay, so divide
+# something else by the cost. For riders per $1 million, change:
+#   highway_sections   to  bike_corridors
+#   highway_yearly     to  bike_yearly
+#   my_section         to  my_corridor
+#   section            to  corridor
+#   rush_delay_min     to  bikes_per_day
+#   hours_per_million  to  riders_per_million
+#   "#eda100"          to  your street's colour (the codes are at the top of your script)
+#   Delete Step 1. In Step 3, delete the left_join(rush_vehicles, ...) line and the delay_hours
+#   line. In the riders_per_million line, change delay_hours to bikes_per_day.
+#   For crashes per $1 million, 2023 to 2025: in Step 2, put group_by(corridor) and
+#   summarize(crashes = sum(crashes)) in place of filter() and select(), then divide crashes by
+#   cost_million.
+#   Then change the words in labs() to fit your argument: title, subtitle, x, and caption.
+
+
 # Hours Lost to Rush Hour, per Million Dollars ----------------------------------------------------
 
 # Step 1: how many vehicles drive each section in the rush hours (7 and 8 a.m.; 4, 5, and 6 p.m.)
@@ -66,5 +85,9 @@ fig_12 <- ggplot(value, aes(x = hours_per_million, y = fct_reorder(section, hour
   theme_minimal()
 
 fig_12
+
+
+# STOP HERE --------------------------------------------------------------------------------------
+# Do not copy the line below! It saves the example's picture, and yours would replace it.
 
 ggsave("output/figures/example_12_value.png", fig_12, width = 7, height = 4.5, bg = "white")

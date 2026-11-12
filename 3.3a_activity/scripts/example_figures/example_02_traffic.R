@@ -11,6 +11,16 @@ library(tidyverse)
 highway_yearly <- read_csv("data/highway_yearly.csv")     # one row per section per year
 
 
+# COPY FROM HERE (down to STOP HERE) -------------------------------------------------------------
+
+# For the bike data, change:
+#   highway_yearly    to  bike_yearly
+#   highway_2025      to  bike_2025
+#   section           to  corridor
+#   vehicles_per_day  to  bikes_per_day (riders) or cars_per_day
+#   Then change the words in labs() to fit your argument: title, subtitle, and x.
+
+
 # One Year ---------------------------------------------------------------------------------------
 
 highway_2025 <- highway_yearly |>
@@ -35,5 +45,9 @@ fig_02 <- ggplot(highway_2025, aes(x = vehicles_per_day, y = fct_reorder(section
   theme_minimal()
 
 fig_02
+
+
+# STOP HERE --------------------------------------------------------------------------------------
+# Do not copy the line below! It saves the example's picture, and yours would replace it.
 
 ggsave("output/figures/example_02_traffic.png", fig_02, width = 7, height = 4.5, bg = "white")

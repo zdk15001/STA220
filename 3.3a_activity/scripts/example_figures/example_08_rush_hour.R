@@ -15,6 +15,16 @@ highway_hourly <- read_csv("data/highway_hourly.csv")     # one row per section 
 dim(highway_hourly)
 
 
+# COPY FROM HERE (down to STOP HERE) -------------------------------------------------------------
+
+# For the bike data, change:
+#   highway_hourly  to  bike_hourly
+#   section         to  corridor
+#   avg_speed_mph   to  car_speed_mph (how fast the cars go) or bikes_per_hour (riders)
+#   For bikes_per_hour, delete the geom_hline() line: riders have no speed limit.
+#   Then change the words in labs() to fit your argument: title, subtitle, and y.
+
+
 # The Figure -------------------------------------------------------------------------------------
 
 fig_08 <- ggplot(highway_hourly, aes(x = hour, y = avg_speed_mph)) +
@@ -32,5 +42,9 @@ fig_08 <- ggplot(highway_hourly, aes(x = hour, y = avg_speed_mph)) +
   theme_minimal()
 
 fig_08
+
+
+# STOP HERE --------------------------------------------------------------------------------------
+# Do not copy the line below! It saves the example's picture, and yours would replace it.
 
 ggsave("output/figures/example_08_rush_hour.png", fig_08, width = 7.5, height = 5, bg = "white")

@@ -28,6 +28,22 @@ section_colours <- c(
 )
 
 
+# COPY FROM HERE (down to STOP HERE) -------------------------------------------------------------
+
+# For the bike data, change:
+#   highway_sections  to  bike_corridors
+#   highway_yearly    to  bike_yearly
+#   highway_crashes   to  bike_crashes
+#   section_colours   to  corridor_colours
+#   section           to  corridor
+#   vehicles_per_day  to  bikes_per_day
+#   "vehicles_"       to  "bikes_"
+#   vehicles_2025     to  bikes_2025
+#   vehicles_2016     to  bikes_2024   (not bikes_2023: Station Road has no 2023 rider count, so
+#                                       its change would be NA and the figure stops with an error)
+#   Then change the words in labs() to fit your argument: title, subtitle, colour, and linewidth.
+
+
 # The Growth for Each Line, and the Points to Show ------------------------------------------------
 
 growth <- highway_yearly |>
@@ -67,5 +83,9 @@ fig_11 <- ggplot() +
   theme_void()
 
 fig_11
+
+
+# STOP HERE --------------------------------------------------------------------------------------
+# Do not copy the line below! It saves the example's picture, and yours would replace it.
 
 ggsave("output/figures/example_11_growth_and_serious_map.png", fig_11, width = 7.5, height = 5.5, bg = "white")

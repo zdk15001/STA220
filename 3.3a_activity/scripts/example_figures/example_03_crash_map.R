@@ -26,6 +26,17 @@ section_colours <- c(
 )
 
 
+# COPY FROM HERE (down to STOP HERE) -------------------------------------------------------------
+
+# For the bike data, change:
+#   highway_crashes   to  bike_crashes
+#   highway_sections  to  bike_corridors
+#   section_colours   to  corridor_colours
+#   section           to  corridor
+#   binwidth = 0.5    to  binwidth = 0.25   (the streets are short: use quarter-mile squares)
+#   Then change the words in labs() to fit your argument: title, subtitle, fill, and colour.
+
+
 # The Figure -------------------------------------------------------------------------------------
 
 # binwidth = 0.5 makes half-mile squares. Like a histogram, try a few widths and see what changes!
@@ -46,5 +57,9 @@ fig_03 <- ggplot() +
   theme_void()
 
 fig_03
+
+
+# STOP HERE --------------------------------------------------------------------------------------
+# Do not copy the line below! It saves the example's picture, and yours would replace it.
 
 ggsave("output/figures/example_03_crash_map.png", fig_03, width = 7.5, height = 5.5, bg = "white")

@@ -17,6 +17,16 @@ highway_sections <- read_sf("data/highway_sections.gpkg")
 highway_crashes <- read_sf("data/highway_crashes.gpkg")        # one row per crash, with its town
 
 
+# COPY FROM HERE (down to STOP HERE) -------------------------------------------------------------
+
+# For the bike data, change:
+#   highway_crashes   to  bike_crashes
+#   highway_sections  to  bike_corridors
+#   Cedar and Fir have none of the four streets, so they have no bike crashes to count and the
+#   map draws them grey. Say what grey means on the figure!
+#   Then change the words in labs() to fit your argument: title, subtitle, and fill.
+
+
 # A Rate for Each Town ---------------------------------------------------------------------------
 
 crashes_by_town <- highway_crashes |>
@@ -51,5 +61,9 @@ fig_13 <- ggplot() +
   theme_void()
 
 fig_13
+
+
+# STOP HERE --------------------------------------------------------------------------------------
+# Do not copy the line below! It saves the example's picture, and yours would replace it.
 
 ggsave("output/figures/example_13_town_rate_map.png", fig_13, width = 7.5, height = 5.5, bg = "white")

@@ -20,6 +20,20 @@ section_colours <- c(
 )
 
 
+# COPY FROM HERE (down to STOP HERE) -------------------------------------------------------------
+
+# For the bike data, change:
+#   highway_yearly    to  bike_yearly
+#   section_colours   to  corridor_colours
+#   section           to  corridor
+#   vehicles_per_day  to  bikes_per_day (riders) or cars_per_day
+#   2016:2025         to  2023:2025
+#   Station Road has no 2023 rider count (NA), so its line starts in 2024. R warns that it
+#   removed the missing values, and that is okay. Say why on the figure!
+#   For months in place of years: bike_monthly, x = month, and delete the scale_x_continuous() line.
+#   Then change the words in labs() to fit your argument: title, subtitle, y, and colour.
+
+
 # The Figure -------------------------------------------------------------------------------------
 
 fig_04 <- ggplot(highway_yearly, aes(x = year, y = vehicles_per_day, colour = section)) +
@@ -39,5 +53,9 @@ fig_04 <- ggplot(highway_yearly, aes(x = year, y = vehicles_per_day, colour = se
   theme_minimal()
 
 fig_04
+
+
+# STOP HERE --------------------------------------------------------------------------------------
+# Do not copy the line below! It saves the example's picture, and yours would replace it.
 
 ggsave("output/figures/example_04_traffic_over_time.png", fig_04, width = 7.5, height = 4.5, bg = "white")

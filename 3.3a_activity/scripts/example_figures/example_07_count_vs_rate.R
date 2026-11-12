@@ -16,6 +16,22 @@ highway_yearly <- read_csv("data/highway_yearly.csv")
 highway_sections <- read_sf("data/highway_sections.gpkg")
 
 
+# COPY FROM HERE (down to STOP HERE) -------------------------------------------------------------
+
+# For the bike data, change:
+#   highway_sections     to  bike_corridors
+#   highway_yearly       to  bike_yearly
+#   section              to  corridor
+#   vehicles_per_day     to  bikes_per_day
+#   year >= 2021         to  !is.na(bikes_per_day)   (drops Station Road's 2023: no rider count)
+#   count_2021_to_2025   to  count_2023_to_2025
+#   rate_per_100m_miles  to  rate_per_100k_trips
+#   (vehicles * miles) * 100000000  to  vehicles * 100000
+#   The last one makes a rate for bikes: crashes per 100,000 bike trips.
+#   The two names in quotes inside rename() are the panel titles. Change them to match!
+#   Then change the words in labs() to fit your argument: title and subtitle.
+
+
 # A Count and a Rate, 2021 to 2025 ---------------------------------------------------------------
 
 section_miles <- highway_sections |>
@@ -64,5 +80,9 @@ fig_07 <- ggplot(crashes_long, aes(x = value, y = section)) +
   theme_minimal()
 
 fig_07
+
+
+# STOP HERE --------------------------------------------------------------------------------------
+# Do not copy the line below! It saves the example's picture, and yours would replace it.
 
 ggsave("output/figures/example_07_count_vs_rate.png", fig_07, width = 8, height = 4.5, bg = "white")

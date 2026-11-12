@@ -29,9 +29,10 @@ sf, which you installed for 3.3. You do not need the internet.
    Cmd+Shift+Return on a Mac), or open its picture in `output/figures/`.
 2. Open `scripts/create_your_visualization_here.R`, set `my_corridor` to your street, and run it
    to load the bike data.
-3. Copy your example under **Your Figure** and change it to fit your street. The Key in that script
-   says what to swap (`section` becomes `corridor`, `vehicles_per_day` becomes `bikes_per_day`, and
-   so on). Change the title to your argument.
+3. In your example, copy from `COPY FROM HERE` down to `STOP HERE`, and paste it under
+   **Your Figure**. The top of what you pasted lists what to change for the bike data (`section`
+   becomes `corridor`, `vehicles_per_day` becomes `bikes_per_day`, and so on). Change the title to
+   your argument.
 
 ## The thirteen examples
 
@@ -107,4 +108,4 @@ Two things to notice, because real data have them too:
 ## Who made it, and when
 
 Zachary D. Kline, The College of New Jersey, with help from Claude (Anthropic). Last updated
-November 3, 2026. Tested with R 4.3.3, tidyverse 2.0.0 (ggplot2 3.4.4), and sf 1.0.15.
+November 12, 2026. Tested with R 4.3.3, tidyverse 2.0.0 (ggplot2 3.4.4), and sf 1.0.15.

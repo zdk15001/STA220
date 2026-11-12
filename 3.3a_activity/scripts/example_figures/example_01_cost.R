@@ -12,6 +12,14 @@ library(sf)
 highway_sections <- read_sf("data/highway_sections.gpkg")     # one row per section
 
 
+# COPY FROM HERE (down to STOP HERE) -------------------------------------------------------------
+
+# For the bike data, change:
+#   highway_sections  to  bike_corridors
+#   section           to  corridor
+#   Then change the words in labs() to fit your argument: title and y.
+
+
 # The Figure -------------------------------------------------------------------------------------
 
 fig_01 <- ggplot(highway_sections, aes(x = section, y = cost_million)) +
@@ -25,5 +33,9 @@ fig_01 <- ggplot(highway_sections, aes(x = section, y = cost_million)) +
   theme_minimal()
 
 fig_01
+
+
+# STOP HERE --------------------------------------------------------------------------------------
+# Do not copy the line below! It saves the example's picture, and yours would replace it.
 
 ggsave("output/figures/example_01_cost.png", fig_01, width = 7, height = 4.5, bg = "white")

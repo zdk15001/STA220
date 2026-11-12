@@ -22,6 +22,17 @@ severity_colours <- c(
 )
 
 
+# COPY FROM HERE (down to STOP HERE) -------------------------------------------------------------
+
+# For the bike data, change:
+#   highway_crashes  to  bike_crashes
+#   section          to  corridor
+#   To show the type of crash (dooring, turning car, passing car, other) in place of the worst
+#   injury: change severity to crash_type, and delete the scale_fill_manual() line (its colours
+#   only name the severity levels).
+#   Then change the words in labs() to fit your argument: title, subtitle, x, and fill.
+
+
 # The Figure -------------------------------------------------------------------------------------
 
 # fct_infreq() puts the most common level first (3.2). Here that orders the colours light to dark,
@@ -40,5 +51,9 @@ fig_09 <- ggplot(highway_crashes, aes(y = section, fill = fct_infreq(severity)))
   theme_minimal()
 
 fig_09
+
+
+# STOP HERE --------------------------------------------------------------------------------------
+# Do not copy the line below! It saves the example's picture, and yours would replace it.
 
 ggsave("output/figures/example_09_severity.png", fig_09, width = 7.5, height = 4.5, bg = "white")

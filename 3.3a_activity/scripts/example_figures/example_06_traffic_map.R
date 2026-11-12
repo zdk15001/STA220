@@ -25,6 +25,18 @@ section_colours <- c(
 )
 
 
+# COPY FROM HERE (down to STOP HERE) -------------------------------------------------------------
+
+# For the bike data, change:
+#   highway_sections  to  bike_corridors
+#   highway_yearly    to  bike_yearly
+#   highway_2025      to  bike_2025
+#   section_colours   to  corridor_colours
+#   section           to  corridor
+#   vehicles_per_day  to  bikes_per_day (riders) or cars_per_day
+#   Then change the words in labs() to fit your argument: title, subtitle, colour, and linewidth.
+
+
 # One Number for Each Line -----------------------------------------------------------------------
 
 highway_2025 <- highway_yearly |>
@@ -55,5 +67,9 @@ fig_06 <- ggplot() +
   theme_void()
 
 fig_06
+
+
+# STOP HERE --------------------------------------------------------------------------------------
+# Do not copy the line below! It saves the example's picture, and yours would replace it.
 
 ggsave("output/figures/example_06_traffic_map.png", fig_06, width = 7.5, height = 5.5, bg = "white")
